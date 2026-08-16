@@ -1,0 +1,5 @@
+condition,n_para,orig_acc_on_sample,paraphrased_acc,paraphrase_delta,n_adv,adv_abstention_rate,adv_hallucination_rate,adv_abstain_fabricated,adv_abstain_out_of_scope_year,adv_abstain_bank_absent
+baseline,36,0.1667,0.1944,0.0278,30,0.3,0.7,0.1667,0.2222,0.5556
+rag,36,0.6111,0.6667,0.0556,30,0.7667,0.2333,0.9167,0.6667,0.6667
+finetuned,36,0.2778,0.2222,-0.0556,30,0.0,1.0,0.0,0.0,0.0
+hybrid,36,0.6389,0.6944,0.0556,30,0.0,1.0,0.0,0.0,0.0

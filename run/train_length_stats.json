@@ -1,0 +1,9 @@
+{
+  "n_examples": 769,
+  "max_seq_len": 1024,
+  "median_total_tokens": 194.0,
+  "p95_total_tokens": 375.7999999999997,
+  "max_total_tokens": 1039,
+  "n_over_budget": 1,
+  "pct_over_budget": 0.13003901170351106
+}

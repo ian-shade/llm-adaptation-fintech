@@ -1,0 +1,92 @@
+{
+  "train": {
+    "file": "3banks_trainalpaca769.jsonl",
+    "raw_rows": 769,
+    "file_system_prompts": 1,
+    "file_system_matches_config": false,
+    "rows_with_input_field": 0,
+    "after_dropna": 769,
+    "rows_with_think_traces": 769,
+    "after_think_strip": 769,
+    "after_language_filter": 769,
+    "after_min_length": 769,
+    "after_dedupe": 769,
+    "train_bank_mix": {
+      "hsbc": 306,
+      "lloyds": 241,
+      "natwest": 222
+    },
+    "abstention_examples_added": 0
+  },
+  "eval": {
+    "file": "3banks_eval300.jsonl",
+    "raw_rows": 300,
+    "columns": [
+      "questionType",
+      "question",
+      "options",
+      "correctAnswer",
+      "tags"
+    ],
+    "qid_source": "synthesised from row order (file has no evalId)",
+    "sourceDocument": "synthesised from bank tag (absent from file)",
+    "after_language_filter": 300,
+    "final_rows": 300,
+    "by_type": {
+      "short_answer": 136,
+      "open_ended": 60,
+      "single_choice": 44,
+      "multiple_choice": 36,
+      "true_false": 24
+    },
+    "by_bank": {
+      "lloyds": 100,
+      "natwest": 100,
+      "hsbc": 100
+    },
+    "by_bank_type": {
+      "hsbc": {
+        "short_answer": 45,
+        "open_ended": 20,
+        "single_choice": 15,
+        "multiple_choice": 12,
+        "true_false": 8
+      },
+      "lloyds": {
+        "short_answer": 46,
+        "open_ended": 20,
+        "single_choice": 14,
+        "multiple_choice": 12,
+        "true_false": 8
+      },
+      "natwest": {
+        "short_answer": 45,
+        "open_ended": 20,
+        "single_choice": 15,
+        "multiple_choice": 12,
+        "true_false": 8
+      }
+    },
+    "figures_flag": {
+      "verified": 240,
+      "no-figures": 53,
+      "false-statement": 7
+    }
+  },
+  "eval_in_use": {
+    "n": 300,
+    "subsample_n": null,
+    "by_bank": {
+      "lloyds": 100,
+      "natwest": 100,
+      "hsbc": 100
+    },
+    "by_type": {
+      "short_answer": 136,
+      "open_ended": 60,
+      "single_choice": 44,
+      "multiple_choice": 36,
+      "true_false": 24
+    }
+  }
+}

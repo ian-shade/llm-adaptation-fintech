@@ -1,0 +1,5 @@
+,infer_hours,train_hours,total_hours,est_colab_units
+baseline,0.402,0.0,0.402,0.433
+rag,1.414,0.0,1.414,1.521
+finetuned,0.456,0.501,0.958,1.031
+hybrid,1.785,0.501,2.286,2.46

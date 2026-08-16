@@ -1,0 +1,66 @@
+{
+  "sources": [
+    "3bankfinancialschunksmerged.json: chunk export (json) (66 rows)"
+  ],
+  "files_loaded": 1,
+  "raw_chunks": 66,
+  "after_drop_empty": 66,
+  "duplicate_groups": 0,
+  "max_multiplicity": 1,
+  "median_multiplicity": 1.0,
+  "after_dedupe": 66,
+  "tables_flattened": true,
+  "bank_assignment_method": {
+    "filename": 66
+  },
+  "chunk_header_prepended": true,
+  "banks_present": [
+    "HSBC",
+    "Lloyds",
+    "NatWest"
+  ],
+  "other_banks_present": [],
+  "total_words": 24628,
+  "per_bank": {
+    "HSBC": {
+      "chunks": 27,
+      "words": 10265,
+      "files": [
+        "HSBC-2023-core-financials.pdf"
+      ]
+    },
+    "Lloyds": {
+      "chunks": 18,
+      "words": 7586,
+      "files": [
+        "lbg-2023-core-financials.pdf"
+      ]
+    },
+    "NatWest": {
+      "chunks": 21,
+      "words": 6777,
+      "files": [
+        "nwg-2023-core-financials.pdf"
+      ]
+    }
+  },
+  "embedding_subchunks": 113,
+  "embedding_subchunks_per_bank": {
+    "HSBC": 48,
+    "Lloyds": 33,
+    "NatWest": 32
+  },
+  "text_integrity": {
+    "subchunks_verbatim": 113,
+    "subchunks_total": 113,
+    "chunks_losing_numbers": 0
+  },
+  "answer_in_context_ceiling": 0.8696,
+  "answer_in_context_sweep": {
+    "4": 0.8087,
+    "6": 0.8696,
+    "8": 0.913,
+    "10": 0.913,
+    "12": 0.9391
+  }
+}

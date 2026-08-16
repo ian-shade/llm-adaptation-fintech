@@ -1,0 +1,5 @@
+question_type,baseline,rag,finetuned,hybrid,n
+multiple_choice,0.0833,0.3611,0.2222,0.3056,36
+short_answer,0.0515,0.6838,0.1029,0.7132,136
+single_choice,0.5682,0.7273,0.6136,0.7273,44
+true_false,0.75,0.6667,0.7083,0.7917,24

@@ -1,0 +1,15 @@
+{
+  "infer_baseline": 1264.6893382072449,
+  "infer_baseline_para": 27.583982229232788,
+  "infer_baseline_adv": 155.693696975708,
+  "infer_rag": 4301.236101865768,
+  "infer_rag_para": 421.20213079452515,
+  "infer_rag_adv": 367.1555383205414,
+  "training": 1805.3701493740082,
+  "infer_finetuned": 1529.3341431617737,
+  "infer_finetuned_para": 36.527623891830444,
+  "infer_finetuned_adv": 75.95697617530823,
+  "infer_hybrid": 5559.9944841861725,
+  "infer_hybrid_para": 562.3200809955597,
+  "infer_hybrid_adv": 303.1568877696991
+}

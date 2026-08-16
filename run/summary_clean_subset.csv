@@ -1,0 +1,5 @@
+condition,n_objective,objective_accuracy,n_clean,clean_accuracy,delta
+baseline,240,0.2208,233,0.2232,0.0023
+rag,240,0.6417,233,0.6352,-0.0065
+finetuned,240,0.275,233,0.279,0.004
+hybrid,240,0.6625,233,0.6567,-0.0058

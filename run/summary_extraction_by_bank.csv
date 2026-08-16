@@ -1,0 +1,7 @@
+condition,bank,n,answer_in_context,accuracy,extraction_efficiency
+rag,HSBC,34,0.8235,0.5882,0.7143
+rag,Lloyds,42,0.9286,0.6667,0.7179
+rag,NatWest,38,0.8158,0.7368,0.8387
+hybrid,HSBC,34,0.8235,0.5588,0.6786
+hybrid,Lloyds,42,0.9286,0.7381,0.7692
+hybrid,NatWest,38,0.8158,0.7895,0.9032

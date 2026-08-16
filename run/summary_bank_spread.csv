@@ -1,0 +1,5 @@
+condition,pooled,bank_spread
+baseline,0.2208,0.05
+rag,0.6417,0.05
+finetuned,0.275,0.1375
+hybrid,0.6625,0.0875

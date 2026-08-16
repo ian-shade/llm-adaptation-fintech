@@ -1,0 +1,5 @@
+condition,n,n_objective,n_open,objective_accuracy,halluc_proxy_rate,open_token_f1,open_rougeL,latency_median_s,latency_p95_s,gen_tokens_median,pct_hit_token_cap,open_bertscore,judge_correctness,judge_faithfulness
+baseline,300,240,60,0.2208,0.7625,0.3048,0.1756,0.59,21.8175,6.0,0.0,0.8365,1.6833,
+rag,300,240,60,0.6417,0.3292,0.3816,0.2594,5.685,55.2705,6.0,9.0,0.8604,2.9833,4.1
+finetuned,300,240,60,0.275,0.725,0.3815,0.2212,1.12,25.6015,8.0,0.0,0.8725,1.6167,
+hybrid,300,240,60,0.6625,0.3375,0.421,0.2698,6.69,65.1305,8.0,11.6667,0.8715,3.1,3.98

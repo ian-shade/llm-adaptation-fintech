@@ -1,0 +1,5 @@
+condition,objective_v9_strict,objective_v9_1_unit_aware,short_answer_v9_strict,short_answer_v9_1_unit_aware,answers_recovered,answers_lost
+baseline,0.2083,0.2208,0.0294,0.0515,3,0
+rag,0.6042,0.6417,0.6176,0.6838,9,0
+finetuned,0.2625,0.275,0.0809,0.1029,3,0
+hybrid,0.625,0.6625,0.6471,0.7132,9,0

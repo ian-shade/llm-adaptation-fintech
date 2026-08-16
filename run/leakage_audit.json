@@ -1,0 +1,23 @@
+{
+  "n_train": 769,
+  "n_eval": 300,
+  "contaminated_qids": [
+    "E0013",
+    "E0116",
+    "E0143",
+    "E0153",
+    "E0171",
+    "E0185",
+    "E0281"
+  ],
+  "n_contaminated": 7,
+  "exact_duplicates_eval": 0,
+  "exact_duplicates_adversarial": 0,
+  "abstention_examples_added": 0,
+  "by_threshold": {
+    "0.7": 47,
+    "0.8": 21,
+    "0.9": 10,
+    "1.0": 8
+  }
+}

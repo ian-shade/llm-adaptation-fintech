@@ -1,0 +1,935 @@
+condition,qid,pred_hash,claim_idx,claim,supported
+baseline,E0001,0445bc8a906e,0,An accurate assessment of how the share buyback program and other equity movements affected Lloyds Banking Group's total equity from 2022 to 2023 requires specific figures from their 2023 Annual Report.,False
+baseline,E0001,0445bc8a906e,1,The 2023 Annual Report details the impact of share buybacks and other equity transactions on equity.,True
+baseline,E0001,0445bc8a906e,2,The report includes the amount spent on share buybacks.,True
+baseline,E0001,0445bc8a906e,3,The report includes any other equity transactions.,True
+baseline,E0001,0445bc8a906e,4,Share buybacks generally reduce the number of outstanding shares.,True
+baseline,E0001,0445bc8a906e,5,Share buybacks can increase earnings per share (EPS) if profits remain constant.,True
+baseline,E0001,0445bc8a906e,6,Share buybacks can be a capital management strategy to return value to shareholders.,True
+baseline,E0001,0445bc8a906e,7,Share buybacks can be a capital management strategy to optimize capital ratios.,True
+baseline,E0026,30a12a846347,0,The pro forma Common Equity Tier 1 (CET1) ratio decreased from 14.1% at the end of 2022 to 13.7% at the end of 2023.,True
+baseline,E0026,30a12a846347,1,The information is based on Lloyds Banking Group's 2023 Annual Report.,True
+baseline,E0026,30a12a846347,2,Capital injections or retained earnings would have increased the CET1 ratio.,True
+baseline,E0026,30a12a846347,3,There were no significant positive capital movements contributing to the increase in the CET1 ratio.,False
+baseline,E0026,30a12a846347,4,A decrease in Risk-Weighted Assets (RWAs) can lead to an improvement in the CET1 ratio.,True
+baseline,E0026,30a12a846347,5,An increase in RWAs would reduce the CET1 ratio.,True
+baseline,E0026,30a12a846347,6,"Without specific data, we cannot determine if there was a change in RWAs.",False
+baseline,E0026,30a12a846347,7,Dividends paid to shareholders or other capital distributions would reduce the CET1 ratio.,True
+baseline,E0036,0884adf10420,0,HSBC's Annual Report and Accounts for 2023 contains information on customer accounts by region.,True
+baseline,E0036,0884adf10420,1,"In 2023, HSBC reported an increase in customer accounts in several markets compared to 2022.",True
+baseline,E0036,0884adf10420,2,The largest absolute growth in HSBC customer accounts in 2023 was observed in China.,False
+baseline,E0036,0884adf10420,3,HSBC's customer account growth in China was driven by strong demand for digital banking services.,False
+baseline,E0036,0884adf10420,4,HSBC's customer account growth in China was driven by expanding retail banking operations.,False
+baseline,E0036,0884adf10420,5,"HSBC is successfully leveraging its presence in China, one of the world's largest economies and growing consumer markets.",True
+baseline,E0036,0884adf10420,6,HSBC experienced a decline in customer accounts in the UK in 2023.,True
+baseline,E0036,0884adf10420,7,The decline in HSBC's UK customer accounts reflected a challenging economic environment with high inflation.,True
+baseline,E0051,5cf2b742f085,0,"From the 2023 Annual Report of NatWest Group plc, derivative assets increased by £1.4 billion.",False
+baseline,E0051,5cf2b742f085,1,"From the 2023 Annual Report of NatWest Group plc, derivative liabilities decreased by £0.6 billion.",False
+baseline,E0051,5cf2b742f085,2,The increase in derivative assets indicates either an increase in the volume of derivatives traded or an increase in the notional amount of existing derivatives.,False
+baseline,E0051,5cf2b742f085,3,"The increase in derivative assets could be due to market conditions, strategic decisions to hedge risks, or changes in customer demand for derivative products.",False
+baseline,E0051,5cf2b742f085,4,The decrease in derivative liabilities might indicate a reduction in the number of derivative contracts with counterparties.,False
+baseline,E0051,5cf2b742f085,5,"The decrease in derivative liabilities could be due to unwinding of certain positions, changes in hedging strategies, or shifts in the bank’s risk management policies.",False
+baseline,E0051,5cf2b742f085,6,The changes in the derivative portfolio suggest that NatWest Group is becoming more active in the derivatives market.,False
+baseline,E0051,5cf2b742f085,7,The changes in the derivative portfolio potentially increase NatWest Group's risk exposure.,False
+baseline,E0058,3d31401307f0,0,HSBC's 2023 Annual Report and Accounts provided information on its liquidity and balance-sheet management.,True
+baseline,E0058,3d31401307f0,1,HSBC maintained a strong focus on liquidity and balance-sheet management throughout 2023.,True
+baseline,E0058,3d31401307f0,2,"HSBC reported a healthy level of liquid assets, including cash and near-cash items.",True
+baseline,E0058,3d31401307f0,3,HSBC's liquid assets were sufficient to meet its short-term obligations.,False
+baseline,E0058,3d31401307f0,4,HSBC emphasized the importance of maintaining a diversified funding base.,False
+baseline,E0058,3d31401307f0,5,"HSBC's funding base included a mix of retail deposits, wholesale funding, and capital markets access.",False
+baseline,E0058,3d31401307f0,6,HSBC continued to manage its balance sheet by optimizing its asset-liability structure.,True
+baseline,E0058,3d31401307f0,7,HSBC's asset-liability optimization aimed to withstand market volatility and regulatory changes.,False
+baseline,E0070,59452e848906,0,HSBC's 2023 Annual Report and Accounts classify debt instruments into different categories based on their purpose and risk profile.,True
+baseline,E0070,59452e848906,1,The classification of debt instruments impacts the reporting of unrealised losses and capital in a rising interest rate environment.,True
+baseline,E0070,59452e848906,2,Available-for-Sale (AFS) debt instruments are reported at fair value through other comprehensive income (OCI).,True
+baseline,E0070,59452e848906,3,"Unrealised gains or losses on AFS debt instruments are recognised in OCI, not in profit or loss.",True
+baseline,E0070,59452e848906,4,"In a rising interest rate environment, the fair value of AFS debt instruments typically decreases.",True
+baseline,E0070,59452e848906,5,Unrealised losses on AFS debt instruments are recognised in OCI in a rising interest rate environment.,True
+baseline,E0070,59452e848906,6,Unrealised losses on AFS debt instruments can reverse if market interest rates fall back to previous levels.,True
+baseline,E0070,59452e848906,7,The fair value of AFS debt instruments would increase again if market interest rates fall back to previous levels.,False
+baseline,E0073,87c6ca6d93ed,0,The 2023 Annual Report of NatWest Group plc reported an increase in operating profit before tax.,True
+baseline,E0073,87c6ca6d93ed,1,The increase in operating profit before tax was primarily driven by stronger performance in retail banking.,False
+baseline,E0073,87c6ca6d93ed,2,"NatWest's retail banking operations showed improved performance, contributing to higher revenues and margins.",True
+baseline,E0073,87c6ca6d93ed,3,The increase in operating profit before tax was driven by effective cost management.,False
+baseline,E0073,87c6ca6d93ed,4,NatWest reported successful cost reduction initiatives.,False
+baseline,E0073,87c6ca6d93ed,5,The cost reduction initiatives helped maintain profitability despite the challenging economic environment.,False
+baseline,E0073,87c6ca6d93ed,6,The increase in operating profit before tax was driven by positive market conditions.,True
+baseline,E0073,87c6ca6d93ed,7,"Favorable market conditions, including higher interest rates, positively impacted net interest income.",True
+baseline,E0078,78c27c2751af,0,An accurate assessment of the impact of capital distributions and pension deficit payments on Lloyds Banking Group's pro forma CET1 ratio for 2023 requires specific figures from their 2023 Annual Report.,True
+baseline,E0078,78c27c2751af,1,"Without access to the exact 2023 Annual Report, the precise effect of capital distributions and pension deficit payments on the pro forma CET1 ratio cannot be determined.",False
+baseline,E0078,78c27c2751af,2,The final pro forma CET1 ratio for Lloyds Banking Group in 2023 cannot be determined without the exact report.,False
+baseline,E0078,78c27c2751af,3,"Capital distributions, such as dividends, can reduce a bank's CET1 ratio by decreasing retained earnings.",True
+baseline,E0078,78c27c2751af,4,Pension deficit payments can reduce a bank's CET1 ratio by decreasing retained earnings.,True
+baseline,E0078,78c27c2751af,5,A sustainable capital position is typically indicated by a pro forma CET1 ratio that remains above regulatory minimum requirements.,True
+baseline,E0078,78c27c2751af,6,A sustainable capital position is typically indicated by a pro forma CET1 ratio that is sufficient to cover expected losses.,False
+baseline,E0078,78c27c2751af,7,A sustainable capital position is typically indicated by a pro forma CET1 ratio that is sufficient to maintain business operations.,True
+baseline,E0079,fd0aa56001cc,0,HSBC's 2023 Annual Report and Accounts describes its funding structure.,False
+baseline,E0079,fd0aa56001cc,1,HSBC's funding structure includes customer deposits.,True
+baseline,E0079,fd0aa56001cc,2,HSBC's funding structure includes wholesale and trading liabilities.,False
+baseline,E0079,fd0aa56001cc,3,HSBC's funding structure includes other sources of funding such as capital instruments and borrowings.,False
+baseline,E0079,fd0aa56001cc,4,"In 2023, HSBC reported customer deposits of £1,457 billion.",False
+baseline,E0079,fd0aa56001cc,5,"In 2023, HSBC reported wholesale and trading liabilities of £689 billion.",False
+baseline,E0079,fd0aa56001cc,6,Customer deposits and wholesale and trading liabilities serve different purposes.,False
+baseline,E0079,fd0aa56001cc,7,Customer deposits and wholesale and trading liabilities carry different levels of risk for the bank.,False
+baseline,E0097,6dbbb59139eb,0,The 2023 Annual Report of NatWest Group plc is the source of the analysis.,True
+baseline,E0097,6dbbb59139eb,1,Dividends paid by NatWest reduced its CET1 capital.,True
+baseline,E0097,6dbbb59139eb,2,NatWest paid dividends totaling £2.4 billion.,False
+baseline,E0097,6dbbb59139eb,3,The £2.4 billion dividends contributed to a decrease in CET1 capital.,False
+baseline,E0097,6dbbb59139eb,4,NatWest conducted share buybacks.,True
+baseline,E0097,6dbbb59139eb,5,Share buybacks led to a reduction in CET1 capital.,False
+baseline,E0097,6dbbb59139eb,6,NatWest repurchased shares worth £1.5 billion.,False
+baseline,E0097,6dbbb59139eb,7,The £1.5 billion share repurchases decreased NatWest's CET1 ratio.,False
+baseline,E0112,eb270c381062,0,HSBC's 2023 Annual Report and Accounts states financial investments increased by £14.5 billion.,False
+baseline,E0112,eb270c381062,1,The total financial investments after the increase were £168.7 billion.,False
+baseline,E0112,eb270c381062,2,The increase in financial investments is primarily due to higher market valuations.,False
+baseline,E0112,eb270c381062,3,The increase in financial investments is primarily due to the bank's strategic decision to allocate more capital to its investment portfolio.,False
+baseline,E0112,eb270c381062,4,The rise in financial investments reflects positive market conditions that led to higher valuations of these assets.,False
+baseline,E0112,eb270c381062,5,The value of investments can fluctuate based on market performance.,False
+baseline,E0112,eb270c381062,6,HSBC has been focusing on optimizing its capital allocation to maximize returns.,False
+baseline,E0112,eb270c381062,7,HSBC has been focusing on optimizing its capital allocation to improve its risk-adjusted profitability.,False
+baseline,E0117,11672494bd6a,0,Lloyds Banking Group's 2023 Annual Report states that underlying other income increased by 10% in 2023.,True
+baseline,E0117,11672494bd6a,1,Investment income is a potential driver of other income growth.,False
+baseline,E0117,11672494bd6a,2,"Investment income includes gains from investments, dividends from equity stakes, and interest income from securities.",False
+baseline,E0117,11672494bd6a,3,"Fee income from services such as asset management, wealth management, and advisory services can contribute to other income.",False
+baseline,E0117,11672494bd6a,4,Growth in fee-based services can boost overall other income.,True
+baseline,E0117,11672494bd6a,5,"Foreign exchange gains can impact other income, particularly for banks with significant international operations.",False
+baseline,E0117,11672494bd6a,6,Favorable exchange rate movements could contribute positively to other income.,False
+baseline,E0117,11672494bd6a,7,Non-recurring items like government grants or one-off transactions can affect other income.,False
+baseline,E0128,1885d30b7b07,0,NatWest Group's 2023 performance evaluation requires considering how total comprehensive income is attributed to different equity classes and non-controlling interests.,True
+baseline,E0128,1885d30b7b07,1,Specific figures from NatWest Group's 2023 Annual Report are needed for a precise evaluation.,True
+baseline,E0128,1885d30b7b07,2,The majority of total comprehensive income would typically be attributed to ordinary shareholders.,False
+baseline,E0128,1885d30b7b07,3,Ordinary shareholders hold the common equity of the company.,True
+baseline,E0128,1885d30b7b07,4,"An increase in profits or other comprehensive income directly benefits ordinary shareholders, assuming no significant dividends are paid out.",True
+baseline,E0128,1885d30b7b07,5,Non-controlling interests refer to the share of profit attributable to minority shareholders or other external investors who do not control the subsidiary.,True
+baseline,E0128,1885d30b7b07,6,Any income attributed to non-controlling interests reduces the amount available for ordinary shareholders.,True
+baseline,E0128,1885d30b7b07,7,"If total comprehensive income is high and a significant portion is attributed to ordinary shareholders, it indicates strong profitability and growth, which is positive for ordinary shareholders.",True
+baseline,E0134,f60415613d3b,0,The answer is based on HSBC's 2023 Annual Report and Accounts.,True
+baseline,E0134,f60415613d3b,1,HSBC's 2023 Annual Report and Accounts does not specifically mention the impact of hyperinflation in Argentina on reported Net Interest Income (NII).,False
+baseline,E0134,f60415613d3b,2,HSBC's 2023 Annual Report and Accounts does not specifically mention the impact of hyperinflation in Argentina on reported Net Interest Margin (NIM).,False
+baseline,E0134,f60415613d3b,3,The report generally focuses on global economic trends.,False
+baseline,E0134,f60415613d3b,4,The report generally focuses on regional impacts relevant to HSBC’s operations.,True
+baseline,E0134,f60415613d3b,5,The report does not detail the specific effects of hyperinflation in Argentina.,False
+baseline,E0134,f60415613d3b,6,The fourth quarter of 2023 might have been particularly significant if there were any localized or sudden changes in the Argentine economy that affected HSBC’s operations there.,True
+baseline,E0134,f60415613d3b,7,"Without specific details from the report, it is not possible to provide a precise explanation of how the fourth quarter of 2023 would have impacted NII or NIM.",True
+baseline,E0165,3b1408f187fa,0,A rising UK Bank Rate can allow LBG to increase lending rates to customers.,True
+baseline,E0165,3b1408f187fa,1,A rising UK Bank Rate can increase the spread between interest earned on loans and interest paid on deposits for LBG.,True
+baseline,E0165,3b1408f187fa,2,Higher net interest income for LBG can result from a rising Bank Rate if loan volumes remain stable or grow.,True
+baseline,E0165,3b1408f187fa,3,A rising Bank Rate generally leads to a steeper yield curve.,False
+baseline,E0165,3b1408f187fa,4,A steeper yield curve can improve LBG's net interest margin by widening the gap between lending and borrowing rates.,False
+baseline,E0165,3b1408f187fa,5,Higher interest rates can attract more deposits from other banks to LBG.,False
+baseline,E0165,3b1408f187fa,6,Increased deposit attraction may raise LBG's funding costs if it must offer higher rates to retain or attract deposits.,False
+baseline,E0165,3b1408f187fa,7,Higher interest rates can reduce demand for mortgage and consumer loan products at LBG.,False
+baseline,E0172,d98e0b502eab,0,The answer is based on the typical structure of an annual report.,False
+baseline,E0172,d98e0b502eab,1,The answer is a general analysis based on common financial reporting practices.,False
+baseline,E0172,d98e0b502eab,2,The answer does not have access to specific figures from NatWest Group's 2023 Annual Report.,False
+baseline,E0172,d98e0b502eab,3,Profit for the Year is the primary measure of profitability.,False
+baseline,E0172,d98e0b502eab,4,Profit for the Year reflects the earnings generated by the company’s core business activities.,False
+baseline,E0172,d98e0b502eab,5,Total Comprehensive Income includes the profit for the year.,True
+baseline,E0172,d98e0b502eab,6,Total Comprehensive Income includes other comprehensive income items that affect equity during the period.,True
+baseline,E0172,d98e0b502eab,7,Other comprehensive income items are typically found in the 'Other Comprehensive Income' section of the statement of comprehensive income.,True
+baseline,E0189,c632c55cdd82,0,Lloyds Banking Group's 2023 Annual Report contains information on Retail secured CRD IV model updates.,True
+baseline,E0189,c632c55cdd82,1,Lloyds Banking Group's 2023 Annual Report contains information on IFRS 9 transitional relief changes.,False
+baseline,E0189,c632c55cdd82,2,The Retail secured CRD IV model updates had significant impacts on the Group's capital position.,True
+baseline,E0189,c632c55cdd82,3,The IFRS 9 transitional relief changes had significant impacts on the Group's capital position.,True
+baseline,E0189,c632c55cdd82,4,The CRD IV model updates likely led to more stringent capital requirements for retail loans.,True
+baseline,E0189,c632c55cdd82,5,The more stringent capital requirements particularly apply to retail loans that are secured.,False
+baseline,E0189,c632c55cdd82,6,The CRD IV model updates could result in higher risk weights for certain types of retail loans.,True
+baseline,E0189,c632c55cdd82,7,Higher risk weights increase the amount of regulatory capital required to support retail loan assets.,True
+baseline,E0201,089b275f15de,0,A fall in cash and balances at central banks combined with a decline in customer deposits while there is an increase in other financial assets could indicate several things about NatWest Group's liquidity and funding position.,True
+baseline,E0201,089b275f15de,1,The decrease in cash and balances at central banks might suggest that the bank has reduced its holdings of liquid assets to invest in other financial instruments or to manage its balance sheet more efficiently.,True
+baseline,E0201,089b275f15de,2,This could be a strategic move to optimize returns or to align with regulatory requirements.,False
+baseline,E0201,089b275f15de,3,"A decline in customer deposits could indicate a shift in customer behavior, possibly due to changes in interest rates, economic conditions, or competition from other financial institutions.",True
+baseline,E0201,089b275f15de,4,"This trend can affect the bank’s ability to fund its operations and lend to customers, impacting its liquidity position.",True
+baseline,E0201,089b275f15de,5,"An increase in other financial assets suggests that NatWest Group may have shifted its investment strategy to include more diversified holdings such as loans, securities, or other financial instruments.",True
+baseline,E0201,089b275f15de,6,This diversification can help manage risk but also requires careful management to ensure adequate liquidity.,False
+baseline,E0201,089b275f15de,7,The combination of these factors can provide insights into the bank’s funding position.,False
+baseline,E0228,fa28afbbc7ec,0,The 2023 Annual Report and Accounts of HSBC Holdings plc does not provide a specific detailed explanation for the decrease in both derivative assets and derivative liabilities.,False
+baseline,E0228,fa28afbbc7ec,1,"Changes in derivative assets and liabilities can be driven by fluctuations in market conditions, such as interest rates or commodity prices.",True
+baseline,E0228,fa28afbbc7ec,2,"HSBC may have adjusted its risk management strategies, leading to a reduction in the volume of derivatives held.",False
+baseline,E0228,fa28afbbc7ec,3,Compliance with new regulatory requirements might have influenced HSBC's derivative holdings.,False
+baseline,E0228,fa28afbbc7ec,4,Shifts in business strategy could impact the level of derivative assets and liabilities.,False
+baseline,E0228,fa28afbbc7ec,5,A precise understanding of the reasons behind the specific changes in derivative assets and liabilities at HSBC in 2023 requires referring to the detailed notes and management commentary sections of the annual report.,True
+baseline,E0232,167cbfb3e241,0,"An increase in Net Interest Income (NII) can indicate better management of interest rates and loan-to-deposit ratios, which can drive profitability.",True
+baseline,E0232,167cbfb3e241,1,"Growth in fee-based services such as investment banking, wealth management, and transaction fees can contribute to higher profitability.",False
+baseline,E0232,167cbfb3e241,2,Reductions in operating expenses or improvements in efficiency can enhance profitability by increasing net income margins.,False
+baseline,E0232,167cbfb3e241,3,Improved credit quality leading to lower provisions for loan losses can positively impact profitability.,True
+baseline,E0232,167cbfb3e241,4,"One-off items might include gains from asset sales, restructuring costs, or other non-recurring events that can significantly affect reported earnings.",True
+baseline,E0232,167cbfb3e241,5,A precise analysis of NatWest Group's profitability improvement between 2022 and 2023 requires reviewing their 2023 Annual Report.,True
+baseline,E0232,167cbfb3e241,6,"The 2023 Annual Report typically provides detailed insights into performance drivers, including segmental analysis and management commentary sections.",True
+baseline,E0234,b64abe7ec669,0,NatWest Group's 2023 Annual Report indicates a 12.1% increase in total income.,True
+baseline,E0234,b64abe7ec669,1,The 12.1% increase in total income was driven by growth in lending and fee income.,False
+baseline,E0234,b64abe7ec669,2,Growth in lending and fee income came particularly from corporate and commercial banking.,False
+baseline,E0234,b64abe7ec669,3,Growth in lending and fee income also came from retail banking.,False
+baseline,E0234,b64abe7ec669,4,NatWest benefited from increased loan volumes.,True
+baseline,E0234,b64abe7ec669,5,NatWest benefited from higher fees associated with its services.,False
+baseline,E0234,b64abe7ec669,6,There was a significant improvement in investment banking activities.,False
+baseline,E0234,b64abe7ec669,7,The improvement in investment banking contributed to overall income growth.,False
+baseline,E0235,68bd0eda17d1,0,HSBC's Annual Reports contain information about the composition of its assets.,True
+baseline,E0235,68bd0eda17d1,1,The composition of HSBC's assets can change over time.,True
+baseline,E0235,68bd0eda17d1,2,"Changes in HSBC's asset composition are due to factors such as strategic decisions, market conditions, and regulatory requirements.",True
+baseline,E0235,68bd0eda17d1,3,HSBC's key asset categories include loans and advances.,True
+baseline,E0235,68bd0eda17d1,4,HSBC's key asset categories include trading and available-for-sale securities.,False
+baseline,E0235,68bd0eda17d1,5,HSBC's key asset categories include cash and balances with banks.,False
+baseline,E0235,68bd0eda17d1,6,The answer does not have access to specific figures from HSBC's 2023 Annual Report.,False
+baseline,E0235,68bd0eda17d1,7,The answer provides a general comparison based on past trends.,False
+baseline,E0251,529b11701b30,0,The 2023 Annual Report and Accounts of HSBC Holdings plc is the source of the information.,True
+baseline,E0251,529b11701b30,1,One of the most significant structural changes in HSBC's balance sheet between 2021 and 2022 was the reduction in customer loans and advances.,True
+baseline,E0251,529b11701b30,2,Customer loans and advances decreased by approximately $15 billion from 2021 to 2022.,False
+baseline,E0251,529b11701b30,3,A decrease in customer loans and advances suggests that HSBC may be reducing its exposure to credit risk.,False
+baseline,E0251,529b11701b30,4,The reduction in loans could be due to regulatory pressures.,True
+baseline,E0251,529b11701b30,5,The reduction in loans could be due to changes in lending policies.,False
+baseline,E0251,529b11701b30,6,The reduction in loans could be due to a strategic decision to focus on other areas of the business.,False
+baseline,E0251,529b11701b30,7,The reduction in loans might indicate an increased focus on non-interest income sources.,False
+baseline,E0253,4a8bb2555e86,0,NatWest Group's 2023 Annual Report discusses credit quality and impairment position under the 'Risk Management' or 'Credit Risk' sections.,False
+baseline,E0253,4a8bb2555e86,1,The report likely details credit quality indicators such as non-performing loans (NPLs).,False
+baseline,E0253,4a8bb2555e86,2,The report likely details loan loss provisions.,True
+baseline,E0253,4a8bb2555e86,3,The report likely details the overall credit risk profile.,True
+baseline,E0253,4a8bb2555e86,4,Post-model adjustments are mentioned in the answer.,False
+baseline,E0253,4a8bb2555e86,5,Post-model adjustments refer to adjustments made after applying credit risk models.,False
+baseline,E0253,4a8bb2555e86,6,Post-model adjustments account for factors that models may not capture.,False
+baseline,E0253,4a8bb2555e86,7,Factors not captured by models include local market conditions.,False
+baseline,E0260,fa8f50e80fae,0,I do not have specific data on the change in risk-weighted assets for Lloyds Banking Group from 31 December 2022 to 31 December 2023 in the provided information.,False
+baseline,E0260,fa8f50e80fae,1,"To provide an accurate analysis, I would need to refer to Lloyds Banking Group's 2023 Annual Report or relevant press releases that discuss this metric.",False
+baseline,E0260,fa8f50e80fae,2,"Generally, the change in risk-weighted assets can be influenced by growth in loan and deposit portfolios.",True
+baseline,E0260,fa8f50e80fae,3,"Generally, the change in risk-weighted assets can be influenced by changes in the composition of the balance sheet (e.g., more or less capital-intensive assets).",True
+baseline,E0260,fa8f50e80fae,4,"Generally, the change in risk-weighted assets can be influenced by regulatory changes affecting how assets are risk-weighted under the Capital Requirements Directive IV (CRD IV) or other regulations.",True
+baseline,E0260,fa8f50e80fae,5,Retail secured CRD IV model updates could lead to changes in the risk weights assigned to certain types of loans.,True
+baseline,E0260,fa8f50e80fae,6,Retail secured CRD IV model updates could potentially increase or decrease risk-weighted assets depending on the specifics of those updates.,False
+baseline,E0260,fa8f50e80fae,7,"If the new model assigns higher risk weights to certain types of retail loans, this could increase risk-weighted assets.",True
+baseline,E0269,e5a91617a6a6,0,Lloyds Banking Group's 2023 Annual Report typically contains information about the Group's capital return.,True
+baseline,E0269,e5a91617a6a6,1,The Group announced a total capital return of £1.5 billion for 2023.,False
+baseline,E0269,e5a91617a6a6,2,The 2023 total capital return includes a final dividend of £1.1 billion.,False
+baseline,E0269,e5a91617a6a6,3,The 2023 total capital return includes share buybacks of £0.4 billion.,False
+baseline,E0269,e5a91617a6a6,4,"For 2022, Lloyds Banking Group announced a total capital return of £1.7 billion.",False
+baseline,E0269,e5a91617a6a6,5,The 2022 total capital return comprised a final dividend of £1.3 billion.,False
+baseline,E0269,e5a91617a6a6,6,The 2022 total capital return comprised share buybacks of £0.4 billion.,False
+baseline,E0269,e5a91617a6a6,7,The 2023 capital return is slightly lower than that of 2022.,False
+baseline,E0273,934eda1f4edf,0,HSBC's 2023 Annual Report and Accounts lists the Canada banking business as a planned disposal group.,True
+baseline,E0273,934eda1f4edf,1,HSBC's 2023 Annual Report and Accounts lists the France retail banking business as a planned disposal group.,True
+baseline,E0273,934eda1f4edf,2,The Canada banking business contributed approximately $4.5 billion in revenue for the year.,False
+baseline,E0273,934eda1f4edf,3,The Canada banking business generated an operating profit of around $1.8 billion.,False
+baseline,E0273,934eda1f4edf,4,The Canada banking business held assets worth approximately $170 billion.,False
+baseline,E0273,934eda1f4edf,5,The Canada banking business had liabilities of around $160 billion.,False
+baseline,E0273,934eda1f4edf,6,The France retail banking business reported revenues of about €2.2 billion.,False
+baseline,E0273,934eda1f4edf,7,€2.2 billion is approximately $2.4 billion.,False
+baseline,E0282,40ab03862da2,0,The answer is based on the 2023 Annual Report of Lloyds Banking Group plc.,True
+baseline,E0282,40ab03862da2,1,Operating costs and remediation costs play distinct but important roles in assessing the Group's financial performance.,True
+baseline,E0282,40ab03862da2,2,Operating costs are the day-to-day expenses incurred by the bank in running its business.,True
+baseline,E0282,40ab03862da2,3,"Operating costs include salaries, rent, utilities, and other operational expenses.",True
+baseline,E0282,40ab03862da2,4,Operating costs are a key indicator of the efficiency and effectiveness of the bank’s operations.,True
+baseline,E0282,40ab03862da2,5,A lower operating cost relative to income can indicate better cost management and operational efficiency.,True
+baseline,E0282,40ab03862da2,6,Remediation costs refer to the costs associated with past misconduct or regulatory issues.,True
+baseline,E0282,40ab03862da2,7,"Remediation costs include fines, legal fees, and other expenses related to rectifying previous mistakes.",False
+baseline,E0285,2791bc1b7e9b,0,Lloyds Banking Group would likely discuss its capital generation expectations as part of its strategic planning and regulatory compliance.,True
+baseline,E0285,2791bc1b7e9b,1,"For 2024 and 2026, the bank might expect to generate sufficient capital through earnings growth, asset quality improvements, and possibly additional capital markets activities.",False
+baseline,E0285,2791bc1b7e9b,2,The bank's capital generation expectations are relevant to meeting regulatory requirements and supporting business expansion.,True
+baseline,E0285,2791bc1b7e9b,3,Banks must maintain adequate capital levels to ensure they can absorb potential losses and continue operating during economic downturns.,True
+baseline,E0285,2791bc1b7e9b,4,Regulatory bodies like the Prudential Regulation Authority (PRA) in the UK set minimum capital requirements to protect depositors and the financial system.,True
+baseline,E0285,2791bc1b7e9b,5,Meeting or exceeding regulatory capital requirements helps the bank avoid regulatory penalties and maintains its reputation.,False
+baseline,E0285,2791bc1b7e9b,6,The bank may aim to balance returning value to shareholders with maintaining strong capital buffers.,True
+baseline,E0285,2791bc1b7e9b,7,"In periods of robust earnings and stable capital ratios, the bank might consider increasing dividends or share buybacks.",False
+baseline,E0290,a7cc8643dee7,0,NatWest Group's CET1 capital ratio declined from 14.2% in 2022 to 13.4% in 2023.,True
+baseline,E0290,a7cc8643dee7,1,An increase in credit losses or provisions for expected credit losses (ECL) can reduce the CET1 ratio.,True
+baseline,E0290,a7cc8643dee7,2,Credit loss provisions are deducted from equity.,False
+baseline,E0290,a7cc8643dee7,3,"The payment of dividends can reduce the amount of equity, thereby lowering the CET1 ratio.",True
+baseline,E0290,a7cc8643dee7,4,"Share repurchases can reduce the amount of equity, thereby lowering the CET1 ratio.",True
+baseline,E0290,a7cc8643dee7,5,"Fluctuations in market risk, such as changes in the fair value of trading book assets, can impact the capital ratio.",False
+baseline,E0290,a7cc8643dee7,6,Significant acquisitions can affect the capital ratio depending on how they are financed and their impact on earnings.,False
+baseline,E0290,a7cc8643dee7,7,Significant divestitures can affect the capital ratio depending on how they are financed and their impact on earnings.,False
+rag,E0001,a67ed2c7991b,0,"From the 2023 Annual Report, the total equity of Lloyds Banking Group increased from £43,911 million at 31 December 2022 to £47,365 million at 31 December 2023.",True
+rag,E0001,a67ed2c7991b,1,"The increase in total equity was £3,454 million.",False
+rag,E0001,a67ed2c7991b,2,The increase in total equity can be attributed to attributable profit for the year.,False
+rag,E0001,a67ed2c7991b,3,The increase in total equity can be attributed to movements in the cash flow hedge reserve.,False
+rag,E0001,a67ed2c7991b,4,The increase in total equity can be attributed to issuance of other equity instruments.,False
+rag,E0001,a67ed2c7991b,5,The increase in total equity was partially offset by market movements impacting pensions.,False
+rag,E0001,a67ed2c7991b,6,The increase in total equity was partially offset by dividends paid.,True
+rag,E0001,a67ed2c7991b,7,The increase in total equity was partially offset by the impact of the share buyback programme.,True
+rag,E0026,e1afdc397f81,0,Lloyds Banking Group's pro forma CET1 ratio was 14.1% at 31 December 2022.,True
+rag,E0026,e1afdc397f81,1,Lloyds Banking Group's pro forma CET1 ratio was 13.7% at 31 December 2023.,True
+rag,E0026,e1afdc397f81,2,The change in the pro forma CET1 ratio from 14.1% to 13.7% represents a net decrease of 0.4 percentage points.,True
+rag,E0026,e1afdc397f81,3,Strong banking build was a positive driver contributing 237 basis points to the CET1 ratio.,False
+rag,E0026,e1afdc397f81,4,Insurance dividend was a positive driver contributing 12 basis points to the CET1 ratio.,False
+rag,E0026,e1afdc397f81,5,Retail secured CRD IV model updates and phased unwind of IFRS 9 transitional relief were a positive driver contributing 223 basis points to the CET1 ratio.,False
+rag,E0026,e1afdc397f81,6,Risk-weighted assets increases were a negative driver contributing 25 basis points to the CET1 ratio.,False
+rag,E0026,e1afdc397f81,7,Fixed pension deficit contributions were a negative driver contributing 30 basis points to the CET1 ratio.,False
+rag,E0036,6c7e38bed10a,0,Hong Kong customer accounts increased by $10bn (3%) in 2023.,True
+rag,E0036,6c7e38bed10a,1,Singapore customer accounts increased by $5bn (15%) in 2023.,True
+rag,E0036,6c7e38bed10a,2,Australia customer accounts increased by $3bn (19%) in 2023.,True
+rag,E0036,6c7e38bed10a,3,Mainland China customer accounts increased by $3bn (19%) in 2023.,True
+rag,E0036,6c7e38bed10a,4,Taiwan customer accounts increased by $2bn (34%) in 2023.,True
+rag,E0036,6c7e38bed10a,5,HSBC UK customer accounts fell by $14bn in 2023.,True
+rag,E0036,6c7e38bed10a,6,Oman customer accounts fell by $14bn in 2023.,False
+rag,E0036,6c7e38bed10a,7,Oman customer accounts fell due to the sale of the business.,True
+rag,E0051,a9c49c509c8d,0,The answer refers to International Financial Reporting Standards (IFRS).,True
+rag,E0051,a9c49c509c8d,1,The IFRS are as adopted by the European Union.,False
+rag,E0051,a9c49c509c8d,2,The standards are referred to as EU IFRS.,False
+rag,E0058,1a6ef6756caa,0,"During 2023, HSBC Holdings plc managed its liquidity and balance-sheet strategy with several key adjustments and observations.",True
+rag,E0058,1a6ef6756caa,1,Cash and Balances at Central Banks decreased by $41 billion or 13%.,True
+rag,E0058,1a6ef6756caa,2,The decrease in Cash and Balances at Central Banks was partly due to favorable foreign currency translation differences of $13 billion.,False
+rag,E0058,1a6ef6756caa,3,"HSBC managed its cash reserves efficiently, deploying them into financial investments and reverse repurchase agreements where needed.",True
+rag,E0058,1a6ef6756caa,4,Trading Assets increased by $71 billion or 33%.,False
+rag,E0058,1a6ef6756caa,5,The increase in Trading Assets was driven by higher client activity in equity and debt securities.,False
+rag,E0058,1a6ef6756caa,6,The higher client activity in equity and debt securities was especially in Hong Kong and HSBC Bank plc.,False
+rag,E0058,1a6ef6756caa,7,HSBC capitalized on market opportunities to enhance its trading position.,False
+rag,E0070,74192c019174,0,HSBC Holdings plc classifies some debt instruments as 'hold-to-collect-and-sell' in a rising interest rate environment.,True
+rag,E0070,74192c019174,1,Hold-to-collect-and-sell instruments are reported within financial investments.,True
+rag,E0070,74192c019174,2,Hold-to-collect-and-sell instruments are classified as held-for-sale.,False
+rag,E0070,74192c019174,3,The change in value of hold-to-collect-and-sell instruments is recognized through 'debt instruments at fair value through other comprehensive income' in equity.,True
+rag,E0070,74192c019174,4,"At 31 December 2023, HSBC recognized a pre-tax cumulative unrealised loss reserve through other comprehensive income of $3.9 billion related to hold-to-collect-and-sell positions.",True
+rag,E0070,74192c019174,5,The $3.9 billion loss reserve reflects a $2.6 billion pretax gain in 2023.,True
+rag,E0070,74192c019174,6,The $2.6 billion pretax gain in 2023 is inclusive of movements on related fair value hedges.,True
+rag,E0070,74192c019174,7,The 2023 gain included a reduction in unrealised losses due to the disposal of securities as part of repositioning actions taken in this portfolio of $1.0 billion.,True
+rag,E0073,5ace49b20174,0,"NatWest Group's 2023 Annual Report states that the increase in operating profit before tax was £1,046 million.",True
+rag,E0073,5ace49b20174,1,The increase in operating profit before tax was 20.4%.,True
+rag,E0073,5ace49b20174,2,The increase in operating profit before tax was achieved primarily due to increased income as a result of favorable yield curve movements.,True
+rag,E0073,5ace49b20174,3,The increase in operating profit before tax was partially offset by higher costs largely attributable to inflationary pressures.,True
+rag,E0073,5ace49b20174,4,The improvement in operating profit before tax translated into a proportionate increase in profit for the year.,False
+rag,E0073,5ace49b20174,5,"The profit for the year increased by £1,037 million.",False
+rag,E0073,5ace49b20174,6,The profit for the year increased by 28.8%.,True
+rag,E0073,5ace49b20174,7,"The profit for the year increased from £3,595 million in 2022 to £4,632 million in 2023.",True
+rag,E0078,d2dd9570d94a,0,The pro forma CET1 capital ratio at 31 December 2023 for Lloyds Banking Group was 13.7%.,True
+rag,E0078,d2dd9570d94a,1,The pro forma CET1 capital ratio was down from 14.1% in 2022.,True
+rag,E0078,d2dd9570d94a,2,The report indicates that the Group distributed a final ordinary dividend.,True
+rag,E0078,d2dd9570d94a,3,The report indicates that the Group implemented a share buyback program.,True
+rag,E0078,d2dd9570d94a,4,The final ordinary dividend utilized 86 basis points of capital.,True
+rag,E0078,d2dd9570d94a,5,The share buyback program utilized 98 basis points of capital.,True
+rag,E0078,d2dd9570d94a,6,The Group paid £800 million in fixed pension deficit contributions.,True
+rag,E0078,d2dd9570d94a,7,The Group paid a residual £250 million aggregate deficit in December 2023.,True
+rag,E0079,51c4eff7e4b8,0,"HSBC's customer accounts in 2023 were $1,611,647 million (USD).",False
+rag,E0079,51c4eff7e4b8,1,"HSBC's deposits by banks in 2023 were $73,163 million (USD).",True
+rag,E0079,51c4eff7e4b8,2,Customer deposits are typically considered stable funding sources.,True
+rag,E0079,51c4eff7e4b8,3,Wholesale and trading liabilities can be more volatile and subject to market conditions.,True
+rag,E0079,51c4eff7e4b8,4,Distinguishing customer deposits from wholesale/trading liabilities helps in assessing the overall stability of the bank's funding base.,True
+rag,E0079,51c4eff7e4b8,5,Different types of liabilities may be subject to different regulatory requirements regarding liquidity and capital adequacy.,True
+rag,E0079,51c4eff7e4b8,6,Proper classification of liabilities aids in compliance with regulatory standards.,False
+rag,E0079,51c4eff7e4b8,7,Customer deposits often carry lower costs compared to wholesale funding.,False
+rag,E0097,fa914b394dce,0,The Capital Flow Statement provided in the extracts was used to determine the main drivers of the CET1 capital movement in 2023 for NatWest Group.,True
+rag,E0097,fa914b394dce,1,"Attributable Profit increased by £4,394 million in 2023.",False
+rag,E0097,fa914b394dce,2,The increase in Attributable Profit contributed positively to CET1 capital.,True
+rag,E0097,fa914b394dce,3,Ordinary Interim Dividend Paid was a reduction of £491 million.,False
+rag,E0097,fa914b394dce,4,The Ordinary Interim Dividend Paid detracted from CET1 capital.,True
+rag,E0097,fa914b394dce,5,"Directed Buyback was a reduction of £1,259 million.",False
+rag,E0097,fa914b394dce,6,The Directed Buyback negatively impacted CET1 capital.,False
+rag,E0097,fa914b394dce,7,"Forseeable Ordinary Dividends were a reduction of £1,013 million.",False
+rag,E0112,9e9d0d12c30f,0,HSBC's 2023 Annual Report states that financial investments increased by $78 billion.,True
+rag,E0112,9e9d0d12c30f,1,HSBC's financial investments increased by 21% in 2023.,True
+rag,E0112,9e9d0d12c30f,2,The increase in financial investments was mainly in Asia and Europe.,True
+rag,E0112,9e9d0d12c30f,3,"The increase in financial investments was driven by the purchase of debt securities, treasury, and other eligible bills.",False
+rag,E0112,9e9d0d12c30f,4,HSBC redeployed its commercial surplus to benefit from higher yield curves.,True
+rag,E0112,9e9d0d12c30f,5,HSBC redeployed its commercial surplus to enhance its hedging activities on net interest income.,True
+rag,E0112,9e9d0d12c30f,6,The increase in financial investments was partly offset by an increase in net income from financial instruments held for trading or managed on a fair value basis.,False
+rag,E0112,9e9d0d12c30f,7,An internally allocated funding cost of $8.7 billion was incurred in 2023.,False
+rag,E0117,9458424da381,0,Lloyds Banking Group's underlying other income in 2023 rose by 10%,True
+rag,E0117,9458424da381,1,"Lloyds Banking Group's underlying other income was £4,666 million in 2022",True
+rag,E0117,9458424da381,2,"Lloyds Banking Group's underlying other income was £5,123 million in 2023",True
+rag,E0117,9458424da381,3,The increase in underlying other income was driven by growth across various business units,True
+rag,E0117,9458424da381,4,"Retail underlying other income was up 25% to £1,351 million",False
+rag,E0117,9458424da381,5,Retail growth was attributed to higher current account and credit card activity,False
+rag,E0117,9458424da381,6,Retail growth was attributed to improved Lex performance,False
+rag,E0117,9458424da381,7,Retail growth was attributed to growth from the acquisition of Tusker,True
+rag,E0128,93afc28273ba,0,"From the perspective of ordinary shareholders, the total comprehensive income for NatWest Group in 2023 was £4,686 million.",False
+rag,E0128,93afc28273ba,1,The total comprehensive income for NatWest Group in 2022 was £625 million.,False
+rag,E0128,93afc28273ba,2,"The total comprehensive income for NatWest Group increased significantly from £625 million in 2022 to £4,686 million in 2023.",False
+rag,E0128,93afc28273ba,3,The earnings per share attributable to ordinary shareholders increased to 47.9 pence in 2023.,True
+rag,E0128,93afc28273ba,4,The earnings per share attributable to ordinary shareholders was 33.8 pence in 2022.,True
+rag,E0128,93afc28273ba,5,The earnings per share attributable to ordinary shareholders increased from 33.8 pence in 2022 to 47.9 pence in 2023.,False
+rag,E0128,93afc28273ba,6,The increase in earnings per share attributable to ordinary shareholders represents a 42.1% increase.,False
+rag,E0128,93afc28273ba,7,"The attribution of total comprehensive income to different equity classes and non-controlling interests shows that the majority of the income (£4,448 million) is attributed to ordinary shareholders.",False
+rag,E0134,b25383f85aec,0,Hyperinflation in Argentina had a notable adverse impact on HSBC's Net Interest Income (NII) in 2023.,True
+rag,E0134,b25383f85aec,1,Hyperinflation in Argentina had a notable adverse impact on HSBC's Net Interest Margin (NIM) in 2023.,True
+rag,E0134,b25383f85aec,2,The impact of hyperinflation in Argentina reduced HSBC's NII by $0.5 billion in the fourth quarter of 2023.,True
+rag,E0134,b25383f85aec,3,The hyperinflation impact contributed to an overall adverse movement of $0.5 billion in HSBC's NII for the year 2023.,True
+rag,E0134,b25383f85aec,4,Hyperinflation led to a decrease in HSBC's NIM by 9 basis points in the fourth quarter of 2023.,True
+rag,E0134,b25383f85aec,5,The NIM decrease of 9 basis points in the fourth quarter of 2023 was compared to a minimal impact in the same period of 2022.,False
+rag,E0134,b25383f85aec,6,The fourth-quarter hyperinflation impact represented a substantial adverse movement of $0.5 billion in a single quarter.,True
+rag,E0134,b25383f85aec,7,The fourth-quarter hyperinflation impact was significant because it occurred in a relatively short period (a single quarter).,False
+rag,E0165,8b6e3eb8b59d,0,"In 2023, the UK Bank Rate environment had both positive and negative effects on Lloyds Banking Group's net interest income and net interest margin.",True
+rag,E0165,8b6e3eb8b59d,1,Lloyds Banking Group's banking net interest margin was 3.11% in 2023.,True
+rag,E0165,8b6e3eb8b59d,2,Lloyds Banking Group's banking net interest margin was 2.94% in the prior year.,True
+rag,E0165,8b6e3eb8b59d,3,The increase in Lloyds' banking net interest margin to 3.11% was due to UK Bank Rate increases.,True
+rag,E0165,8b6e3eb8b59d,4,Higher structural hedge earnings from the rising rate environment contributed to Lloyds' stronger banking net interest margin.,True
+rag,E0165,8b6e3eb8b59d,5,Lloyds Banking Group had higher average interest-earning banking assets of £453.3 billion in 2023.,True
+rag,E0165,8b6e3eb8b59d,6,Higher average interest-earning banking assets contributed to Lloyds' net interest income growth.,True
+rag,E0165,8b6e3eb8b59d,7,Deposit mix effects partially offset the benefits of higher rates for Lloyds in 2023.,True
+rag,E0172,618e62cd5a5b,0,"Profit for the year in 2023 was £4,632 million.",True
+rag,E0172,618e62cd5a5b,1,"Profit for the year in 2022 was £3,595 million.",True
+rag,E0172,618e62cd5a5b,2,"Profit for the year in 2021 was £3,312 million.",False
+rag,E0172,618e62cd5a5b,3,"Total comprehensive income for the year in 2023 was £4,686 million.",True
+rag,E0172,618e62cd5a5b,4,Total comprehensive income for the year in 2022 was £625 million.,True
+rag,E0172,618e62cd5a5b,5,"Total comprehensive income for the year in 2021 was £1,674 million.",True
+rag,E0172,618e62cd5a5b,6,The difference between profit for the year and total comprehensive income indicates the impact of items that affect other comprehensive income (OCI).,True
+rag,E0172,618e62cd5a5b,7,Remeasurement of retirement benefit schemes decreased from £(840) million in 2022 to £(280) million in 2023.,False
+rag,E0189,ad6d3c6b6d93,0,The Retail secured CRD IV model updates increased risk-weighted assets by £5 billion.,True
+rag,E0189,ad6d3c6b6d93,1,Risk-weighted assets increased from £211 billion to £219 billion.,True
+rag,E0189,ad6d3c6b6d93,2,The Retail secured CRD IV model updates required an additional £5 billion in capital over 2024-2026.,True
+rag,E0189,ad6d3c6b6d93,3,The additional £5 billion capital requirement from Retail secured CRD IV model updates is subject to final model outcomes.,True
+rag,E0189,ad6d3c6b6d93,4,IFRS 9 transitional relief changes reduced the transitional factor applied to IFRS 9 dynamic relief.,False
+rag,E0189,ad6d3c6b6d93,5,IFRS 9 transitional relief changes contributed to a 50 basis point reduction in the pro forma CET1 capital ratio.,True
+rag,E0189,ad6d3c6b6d93,6,The pro forma CET1 capital ratio decreased from 14.1% to 13.7%.,True
+rag,E0189,ad6d3c6b6d93,7,"The underlying impairment charge decreased from £1,510 million in 2022 to £308 million in 2023.",True
+rag,E0201,ff087a1017f4,0,Cash and balances at central banks fell by £40.6 billion.,True
+rag,E0201,ff087a1017f4,1,Customer deposits declined by £18.9 billion.,False
+rag,E0201,ff087a1017f4,2,NatWest Group faced a significant reduction in liquid assets and deposits.,True
+rag,E0201,ff087a1017f4,3,Other financial assets increased by £20.2 billion.,False
+rag,E0201,ff087a1017f4,4,The increase in other financial assets partially offset the reduction in cash and deposits.,False
+rag,E0201,ff087a1017f4,5,NatWest Group experienced a contraction in traditional liquid assets and deposits.,True
+rag,E0201,ff087a1017f4,6,NatWest Group managed to maintain its balance sheet through the acquisition of other financial assets.,True
+rag,E0201,ff087a1017f4,7,"The bank may be actively managing its liquidity and funding position by investing in other types of assets, such as bonds or securities.",True
+rag,E0228,636c24ef3305,0,"HSBC Holdings plc's cash and balances at central banks decreased by 192,610 in 2023.",False
+rag,E0228,636c24ef3305,1,"HSBC Holdings plc's cash and balances at central banks decreased by 185,197 in 2023.",False
+rag,E0228,636c24ef3305,2,"HSBC Holdings plc's cash and balances at central banks decreased by 206,777 in 2023.",False
+rag,E0228,636c24ef3305,3,"HSBC Holdings plc's cash and balances at central banks decreased by 205,000 in 2023.",False
+rag,E0228,636c24ef3305,4,"HSBC Holdings plc's cash and balances at central banks decreased by 192,668 in 2023.",False
+rag,E0232,9f3ba6c58165,0,"Total income increased by 12.1% to £14,752 million in 2023.",True
+rag,E0232,9f3ba6c58165,1,"Total income was £13,156 million in 2022.",False
+rag,E0232,9f3ba6c58165,2,"Net interest income grew by 12.3% to £11,049 million in 2023.",False
+rag,E0232,9f3ba6c58165,3,"Net interest income was £9,842 million in 2022.",True
+rag,E0232,9f3ba6c58165,4,Net interest income growth was driven by higher interest receivable.,False
+rag,E0232,9f3ba6c58165,5,"Interest receivable increased by 66.4% to £21,026 million in 2023.",False
+rag,E0232,9f3ba6c58165,6,"Interest receivable was £12,637 million in 2022.",False
+rag,E0232,9f3ba6c58165,7,"Net fees and commissions income from trading activities increased by 1.7% to £2,330 million in 2023.",False
+rag,E0234,36a6f14db5f8,0,The answer mentions equity.,True
+rag,E0234,36a6f14db5f8,1,The answer mentions a share premium account.,False
+rag,E0234,36a6f14db5f8,2,The answer refers to further details of the share premium account.,False
+rag,E0234,36a6f14db5f8,3,The answer implies that equity is related to the share premium account.,False
+rag,E0235,7c44c23a7756,0,The provided extracts do not contain specific data for 2020.,True
+rag,E0235,7c44c23a7756,1,The provided extracts do not contain a direct comparison between 2020 and 2023 asset compositions.,True
+rag,E0235,7c44c23a7756,2,The closest information is the balance sheet commentary for 2023.,True
+rag,E0235,7c44c23a7756,3,The 2023 balance sheet commentary compares 2023 to 2022.,True
+rag,E0235,7c44c23a7756,4,The 2023 balance sheet commentary shows total assets of $3.0tn.,True
+rag,E0235,7c44c23a7756,5,Total assets were up $89bn or 3% on a reported basis.,True
+rag,E0235,7c44c23a7756,6,Total assets were up $31bn or 1% on a constant currency basis.,True
+rag,E0235,7c44c23a7756,7,There is no comparable data for 2020 in the given extracts.,True
+rag,E0251,45a736420744,0,"Total assets decreased from $2,957,939 million in 2021 to $2,949,286 million in 2022.",False
+rag,E0251,45a736420744,1,Total assets decreased by $8.653 billion or approximately 0.3% between 2021 and 2022.,False
+rag,E0251,45a736420744,2,The slight decrease in total assets suggests HSBC maintained a relatively stable asset base despite the overall economic environment.,True
+rag,E0251,45a736420744,3,"Customer accounts decreased from $1,710,574 million in 2021 to $1,570,303 million in 2022.",False
+rag,E0251,45a736420744,4,"Customer accounts decreased by $140,271 million or approximately 8.2% between 2021 and 2022.",False
+rag,E0251,45a736420744,5,The decline in customer accounts indicates a notable decline in customer deposits.,False
+rag,E0251,45a736420744,6,"The decline in customer deposits could reflect changes in customer behavior, competition, or shifts in funding sources.",True
+rag,E0251,45a736420744,7,"Operating expenses decreased from $32,701 million in 2021 to $32,070 million in 2022.",False
+rag,E0253,ed9c4f236259,0,"In 2023, NatWest Group reported a net impairment charge of £578 million.",True
+rag,E0253,ed9c4f236259,1,The net impairment charge of £578 million represented 15 basis points of gross customer loans.,True
+rag,E0253,ed9c4f236259,2,The impairment charge primarily reflected continued low and stable levels of stage 3 defaults across the portfolio.,False
+rag,E0253,ed9c4f236259,3,The impairment charge also reflected good book charges related to unsecured lending.,True
+rag,E0253,ed9c4f236259,4,The Expected Credit Loss (ECL) provision increased by £0.2 billion to £3.6 billion.,True
+rag,E0253,ed9c4f236259,5,The ECL coverage ratio rose from 0.91% to 0.93%.,True
+rag,E0253,ed9c4f236259,6,Post-model adjustments accounted for 11.8% of total impairment provisions.,True
+rag,E0253,ed9c4f236259,7,Post-model adjustments amounted to £0.4 billion.,False
+rag,E0260,a59ab7c06214,0,Lloyds Banking Group's risk-weighted assets increased by £8 billion from 31 December 2022 to 31 December 2023.,True
+rag,E0260,a59ab7c06214,1,Lloyds Banking Group's risk-weighted assets reached £219 billion as of 31 December 2023.,True
+rag,E0260,a59ab7c06214,2,The main driver of the increase in risk-weighted assets was the impact of Retail secured CRD IV model updates.,True
+rag,E0260,a59ab7c06214,3,Retail secured CRD IV model updates contributed £5 billion to the increase in risk-weighted assets.,True
+rag,E0260,a59ab7c06214,4,"There were lending, operational, and market risk increases contributing to the rise in risk-weighted assets.",True
+rag,E0260,a59ab7c06214,5,There were modest uplifts from credit and model calibrations contributing to the rise in risk-weighted assets.,True
+rag,E0260,a59ab7c06214,6,The increases in risk-weighted assets were partly offset by optimisation activities such as capital-efficient securitisation.,True
+rag,E0260,a59ab7c06214,7,The Group estimates a further £5 billion increase in risk-weighted assets will be required over 2024 to 2026.,True
+rag,E0269,c978a70e0ff7,0,"['In 2022, Lloyds Banking Group executed a share buyback program returning £2 billion in capital to shareholders.', 'The 2022 share buyback was completed in February 2023.', 'The 2022 share buyback repurchased approximately 4.4 billion ordinary shares.', 'The 2022 share buyback represented about 7% ",True
+rag,E0273,7b71b2f6926a,0,HSBC's 2023 Annual Report provides financial data for Canada Banking and France Retail Banking.,True
+rag,E0273,7b71b2f6926a,1,Canada Banking revenue was $2.0 billion.,False
+rag,E0273,7b71b2f6926a,2,Canada Banking operating expenses were $(1.0) billion.,False
+rag,E0273,7b71b2f6926a,3,$0.7 billion of Canada Banking operating expenses were expected to be exited.,False
+rag,E0273,7b71b2f6926a,4,Canada Banking profit before tax was $0.9 billion.,True
+rag,E0273,7b71b2f6926a,5,Canada Banking loans and advances to customers were $56.1 billion.,True
+rag,E0273,7b71b2f6926a,6,Canada Banking customer accounts were $63.0 billion.,True
+rag,E0273,7b71b2f6926a,7,Canada Banking risk-weighted assets (RWA) were $31.9 billion.,False
+rag,E0282,1ed21c173e0b,0,Lloyds Banking Group's 2023 Annual Report distinguishes between operating costs and remediation costs.,True
+rag,E0282,1ed21c173e0b,1,"Operating costs are regular, ongoing expenses necessary for day-to-day operations.",True
+rag,E0282,1ed21c173e0b,2,"Operating costs include salaries, rent, utilities, and other operational expenses.",True
+rag,E0282,1ed21c173e0b,3,"In 2023, operating costs were £9,140 million.",True
+rag,E0282,1ed21c173e0b,4,"Operating costs in 2023 were up 5% from £8,672 million in 2022.",True
+rag,E0282,1ed21c173e0b,5,Remediation costs are one-off or exceptional costs related to past issues or regulatory requirements.,True
+rag,E0282,1ed21c173e0b,6,"In 2023, remediation costs were £675 million.",True
+rag,E0282,1ed21c173e0b,7,Remediation costs in 2023 were significantly higher than £255 million in 2022.,True
+rag,E0285,6ae02af5822a,0,"Lloyds Banking Group's 2023 Annual Report states that for 2024, the Group expects capital generation to be around 175 basis points.",True
+rag,E0285,6ae02af5822a,1,The 2024 capital generation expectation of around 175 basis points takes into account further expected in-year regulatory headwinds.,True
+rag,E0285,6ae02af5822a,2,The regulatory headwinds for 2024 include the Pillar 2A CET1 capital requirement.,False
+rag,E0285,6ae02af5822a,3,The regulatory headwinds for 2024 include the countercyclical capital buffer (CCyB).,False
+rag,E0285,6ae02af5822a,4,The Pillar 2A CET1 capital requirement and the countercyclical capital buffer (CCyB) together contribute to regulatory headwinds of 50 basis points noted in 2023.,False
+rag,E0285,6ae02af5822a,5,"For 2026, the Group reaffirms its guidance for capital generation to be greater than 200 basis points.",True
+rag,E0285,6ae02af5822a,6,The 2026 capital generation guidance indicates the Group's ability to sustain capital levels necessary for growth.,True
+rag,E0285,6ae02af5822a,7,The 2026 capital generation guidance indicates the Group's ability to meet future regulatory requirements despite ongoing headwinds.,True
+rag,E0290,f111f49a3b6f,0,NatWest Group's CET1 capital ratio declined from 14.2% in 2022 to 13.4% in 2023.,True
+rag,E0290,f111f49a3b6f,1,The decline in the CET1 capital ratio was 80 basis points.,True
+rag,E0290,f111f49a3b6f,2,The decline was attributed to several factors.,True
+rag,E0290,f111f49a3b6f,3,Distributions deducted from capital caused a reduction of approximately 200 basis points.,False
+rag,E0290,f111f49a3b6f,4,The distributions deducted from capital directly impacted the CET1 ratio.,True
+rag,E0290,f111f49a3b6f,5,Attributable profit had a positive effect on the CET1 ratio.,True
+rag,E0290,f111f49a3b6f,6,The positive effect of attributable profit was not sufficient to offset the impact of the distributions.,False
+rag,E0290,f111f49a3b6f,7,The combination of distributions deducted from capital and attributable profit resulted in the 80 basis point reduction.,False
+finetuned,E0001,197826c5d323,0,Total equity increased by £1.9 billion from £47.5 billion in 2022 to £49.4 billion in 2023.,False
+finetuned,E0001,197826c5d323,1,The increase in total equity was driven by net profits of £6.8 billion.,False
+finetuned,E0001,197826c5d323,2,The increase in total equity was driven by a favourable movement on APM of £1.1 billion.,False
+finetuned,E0001,197826c5d323,3,The increase in total equity was partly offset by dividends paid of £3.7 billion.,False
+finetuned,E0001,197826c5d323,4,The increase in total equity was partly offset by other equity movements of £0.5 billion.,False
+finetuned,E0001,197826c5d323,5,The share buyback programme was a significant component of those other equity movements.,True
+finetuned,E0001,197826c5d323,6,The share buyback programme reduced ordinary shares by 1.9 billion.,False
+finetuned,E0001,197826c5d323,7,The share buyback programme reduced ordinary shares by 10%.,False
+finetuned,E0026,e4e7d0cca204,0,The pro forma CET1 ratio fell by 0.4 percentage points.,True
+finetuned,E0026,e4e7d0cca204,1,The main positive driver was the favourable impact of IFRS 9 transitional relief.,False
+finetuned,E0026,e4e7d0cca204,2,IFRS 9 transitional relief added 0.5 percentage points.,False
+finetuned,E0026,e4e7d0cca204,3,This was partly offset by a negative movement of 0.1 percentage point due to distributions.,False
+finetuned,E0026,e4e7d0cca204,4,Distributions included dividends and the full repayment of Tier 2 notes.,False
+finetuned,E0026,e4e7d0cca204,5,The overall result is a net decline of 0.4 percentage points.,False
+finetuned,E0026,e4e7d0cca204,6,The composition of the ratio also changed.,False
+finetuned,E0026,e4e7d0cca204,7,Risk-weighted assets increased by £6.8 billion.,False
+finetuned,E0036,c6b75efd9849,0,Customer accounts increased by $19bn.,False
+finetuned,E0036,c6b75efd9849,1,Customer accounts increased by 4%.,False
+finetuned,E0036,c6b75efd9849,2,Customer accounts increased to $478bn.,False
+finetuned,E0036,c6b75efd9849,3,The largest absolute increase in customer accounts was in Hong Kong.,True
+finetuned,E0036,c6b75efd9849,4,Hong Kong customer accounts increased by $25bn.,False
+finetuned,E0036,c6b75efd9849,5,The increase in Hong Kong reflected higher average balances.,False
+finetuned,E0036,c6b75efd9849,6,The increase in Hong Kong reflected the acquisition of SVB UK customers.,False
+finetuned,E0036,c6b75efd9849,7,The increase in Hong Kong was partly offset by reductions in Oman.,False
+finetuned,E0051,497e0359de05,0,Derivative assets increased by £15.9 billion.,False
+finetuned,E0051,497e0359de05,1,Derivative assets increased by 18%.,False
+finetuned,E0051,497e0359de05,2,Derivative assets increased to £114.6 billion.,False
+finetuned,E0051,497e0359de05,3,Derivative liabilities decreased by £17.1 billion.,False
+finetuned,E0051,497e0359de05,4,Derivative liabilities decreased by 15%.,False
+finetuned,E0051,497e0359de05,5,Derivative liabilities decreased to £97.7 billion.,False
+finetuned,E0051,497e0359de05,6,The increase in derivative assets was driven by higher interest rate trading books.,False
+finetuned,E0051,497e0359de05,7,The increase in derivative assets was driven by higher foreign exchange trading books.,False
+finetuned,E0058,2edbfe866b29,0,Liquidity remained strong.,True
+finetuned,E0058,2edbfe866b29,1,The liquidity coverage ratio increased from 145% to 150%.,False
+finetuned,E0058,2edbfe866b29,2,The net stable funding ratio improved from 129% to 136%.,False
+finetuned,E0058,2edbfe866b29,3,The average daily balance of central items fell by $18bn.,False
+finetuned,E0058,2edbfe866b29,4,The average daily balance of other wholesale funding fell by $17bn.,False
+finetuned,E0058,2edbfe866b29,5,The bank reduced its reliance on volatile sources.,False
+finetuned,E0058,2edbfe866b29,6,The bank reduced its exposure to short-term wholesale funding.,True
+finetuned,E0058,2edbfe866b29,7,The proportion of liabilities due within one year fell from 19% to 17%.,False
+finetuned,E0070,ccb5e5bb8067,0,The annual report shows that the Group holds a significant amount of debt instruments classified as held-to-collect-and-sell (HTCS).,True
+finetuned,E0070,ccb5e5bb8067,1,The annual report shows that the Group holds a significant amount of debt instruments classified as held-to-collect-and-sell with fixed maturities.,True
+finetuned,E0070,ccb5e5bb8067,2,These instruments are reported at amortised cost.,False
+finetuned,E0070,ccb5e5bb8067,3,Unrealised losses on these instruments are recognised through profit and loss.,False
+finetuned,E0070,ccb5e5bb8067,4,Unrealised losses on these instruments do not directly affect regulatory capital.,False
+finetuned,E0070,ccb5e5bb8067,5,"In a rising interest rate environment, the fair value of these instruments falls.",True
+finetuned,E0070,ccb5e5bb8067,6,The falling fair value generates unrealised losses.,True
+finetuned,E0070,ccb5e5bb8067,7,"Because the instruments are held to collect contractual cash flows and sell, the Group expects to recover the full amortised cost basis over the life of the instrument.",False
+finetuned,E0073,3323052ba64f,0,"Operating profit before tax rose by £1,495 million.",False
+finetuned,E0073,3323052ba64f,1,Operating profit before tax rose by 18%.,False
+finetuned,E0073,3323052ba64f,2,"Operating profit before tax rose to £9,671 million.",False
+finetuned,E0073,3323052ba64f,3,The increase in operating profit before tax was driven by two main factors.,True
+finetuned,E0073,3323052ba64f,4,One factor was higher underlying net income.,True
+finetuned,E0073,3323052ba64f,5,Another factor was lower underlying operating expenses.,False
+finetuned,E0073,3323052ba64f,6,"Net income increased by £1,889 million.",False
+finetuned,E0073,3323052ba64f,7,Lending growth was a key contributor to the net income increase.,True
+finetuned,E0078,346914062280,0,The Group's pro forma CET1 ratio fell from 14.5% at 31 December 2022 to 13.9% at 31 December 2023.,False
+finetuned,E0078,346914062280,1,The decline in the CET1 ratio was driven by dividends paid of £2.8 billion.,False
+finetuned,E0078,346914062280,2,The decline in the CET1 ratio was driven by ordinary share buybacks totalling £2.6 billion.,False
+finetuned,E0078,346914062280,3,The decline in the CET1 ratio was driven by pension deficit payments of £0.7 billion.,False
+finetuned,E0078,346914062280,4,These uses of capital were partially offset by net income of £4.8 billion.,False
+finetuned,E0078,346914062280,5,These uses of capital were partially offset by net capital movements of £0.5 billion.,False
+finetuned,E0078,346914062280,6,The final ratio of 13.9% is above the Group's target range of 13.0%-14.0%.,False
+finetuned,E0078,346914062280,7,The final ratio of 13.9% indicates that the Group retains significant headroom.,False
+finetuned,E0079,0bb8dc6a983a,0,Customer deposits fell by $19bn.,False
+finetuned,E0079,0bb8dc6a983a,1,Wholesale and trading liabilities rose by $48bn.,False
+finetuned,E0079,0bb8dc6a983a,2,The decline in customer deposits was not driven by a reduction in customer funding.,False
+finetuned,E0079,0bb8dc6a983a,3,The decline in customer deposits reflected a shift in funding sources.,False
+finetuned,E0079,0bb8dc6a983a,4,The increase in wholesale and trading liabilities indicates the bank relied more on short-term or market-based funding.,True
+finetuned,E0079,0bb8dc6a983a,5,The increase in wholesale and trading liabilities indicates the bank relied more on repo activity or trading-related funding than on customer deposits.,False
+finetuned,E0079,0bb8dc6a983a,6,Wholesale funding can be less stable than customer deposits.,False
+finetuned,E0079,0bb8dc6a983a,7,Wholesale funding can be more sensitive to liquidity pressures than customer deposits.,False
+finetuned,E0097,b3dbba44f03d,0,The CET1 capital movement was a net decrease of £0.5 billion.,True
+finetuned,E0097,b3dbba44f03d,1,The CET1 capital movement was a net decrease of 1%.,False
+finetuned,E0097,b3dbba44f03d,2,The CET1 capital decreased to £49.8 billion.,False
+finetuned,E0097,b3dbba44f03d,3,Dividends received increased CET1 by £0.7 billion.,False
+finetuned,E0097,b3dbba44f03d,4,AT1 coupons received added £0.3 billion to CET1.,False
+finetuned,E0097,b3dbba44f03d,5,AT1 coupons paid reduced CET1 by £0.6 billion.,False
+finetuned,E0097,b3dbba44f03d,6,Share buyback decreased CET1 by £0.5 billion.,False
+finetuned,E0097,b3dbba44f03d,7,The positive effects of dividends and AT1 coupons were partially offset by the payment of AT1 coupons and the share buyback programme.,False
+finetuned,E0112,a49916eadfed,0,Financial investments rose by $15bn.,False
+finetuned,E0112,a49916eadfed,1,Financial investments rose by 4%.,False
+finetuned,E0112,a49916eadfed,2,Financial investments rose to $369bn.,False
+finetuned,E0112,a49916eadfed,3,The increase in financial investments was driven mainly by higher trading book positions.,False
+finetuned,E0112,a49916eadfed,4,Higher trading book positions notably included debt instruments held as hedges to fair value movements on the related trading book portfolio.,False
+finetuned,E0112,a49916eadfed,5,The increase in financial investments was also driven by an increase in debt securities purchased as part of the Group’s net interest hedge.,False
+finetuned,E0112,a49916eadfed,6,The rise in financial investments was partly offset by a reduction in cash and balances at central banks.,False
+finetuned,E0112,a49916eadfed,7,Cash and balances at central banks fell by $10bn.,False
+finetuned,E0117,b8506354b6f8,0,Underlying other income increased by £495 million.,True
+finetuned,E0117,b8506354b6f8,1,Underlying other income increased by 10%.,True
+finetuned,E0117,b8506354b6f8,2,Underlying other income increased to £5.3 billion.,False
+finetuned,E0117,b8506354b6f8,3,The rise was driven by higher income in the Group’s main operating entities.,False
+finetuned,E0117,b8506354b6f8,4,Retail Banking rose 17% to £3.8 billion.,False
+finetuned,E0117,b8506354b6f8,5,Commercial Banking rose 16% to £1.4 billion.,False
+finetuned,E0117,b8506354b6f8,6,These increases were mainly due to favourable yield curve movements on net interest income.,False
+finetuned,E0117,b8506354b6f8,7,These increases were mainly due to higher income from the Group’s insurance operations.,False
+finetuned,E0128,8f0d44d38ca7,0,Ordinary shareholders' earnings per share increased by 15%.,False
+finetuned,E0128,8f0d44d38ca7,1,Ordinary shareholders' earnings per share increased to 49.8 pence.,False
+finetuned,E0128,8f0d44d38ca7,2,The earnings per share increase reflected strong profit growth.,False
+finetuned,E0128,8f0d44d38ca7,3,The earnings per share increase reflected a higher underlying CET1 ratio.,False
+finetuned,E0128,8f0d44d38ca7,4,The increase in earnings per share is partly masked by the distribution of total comprehensive income.,False
+finetuned,E0128,8f0d44d38ca7,5,Other comprehensive income reduced retained earnings by £1.6 billion.,False
+finetuned,E0128,8f0d44d38ca7,6,Gains on non-controlling interests added £0.7 billion.,False
+finetuned,E0128,8f0d44d38ca7,7,The net effect was an overall increase in total equity.,True
+finetuned,E0134,5c60080632fa,0,The annual report states that the reported NII and NIM figures were materially affected by hyperinflation in Argentina.,True
+finetuned,E0134,5c60080632fa,1,"In the fourth quarter, NII fell by $0.5bn.",False
+finetuned,E0134,5c60080632fa,2,"In the fourth quarter, NII fell by 1%.",False
+finetuned,E0134,5c60080632fa,3,"In the fourth quarter, NIM declined by 19bps.",False
+finetuned,E0134,5c60080632fa,4,The fourth-quarter impact was particularly pronounced because it reflected the full quarter’s effect of the sharp rise in market interest rates.,False
+finetuned,E0134,5c60080632fa,5,The fourth-quarter impact was particularly pronounced because it reflected the full impact of the devaluation of the Argentine peso.,False
+finetuned,E0134,5c60080632fa,6,The annual report notes that the reported figures included a favourable impact of foreign currency translation differences of $0.4bn.,False
+finetuned,E0134,5c60080632fa,7,The favourable foreign currency translation effect masked the underlying pressure on NII and NIM.,True
+finetuned,E0165,803499aff6fb,0,The rising UK Bank Rate environment had a mixed effect on net interest income (NIl) and net interest margin (NIM).,True
+finetuned,E0165,803499aff6fb,1,Higher market interest rates increased the Group’s funding costs.,False
+finetuned,E0165,803499aff6fb,2,Higher funding costs reduced NIl.,True
+finetuned,E0165,803499aff6fb,3,The Group benefited from yield curve movements.,False
+finetuned,E0165,803499aff6fb,4,The Group benefited from repricing of legacy assets.,False
+finetuned,E0165,803499aff6fb,5,Yield curve movements and asset repricing helped to mitigate the impact of higher funding costs.,False
+finetuned,E0165,803499aff6fb,6,NIl increased by £1.4 billion.,False
+finetuned,E0165,803499aff6fb,7,NIl increased by 18%.,True
+finetuned,E0172,83492c903d8e,0,Profit for the year and total comprehensive income move closely together over the three years.,False
+finetuned,E0172,83492c903d8e,1,Profit for the year is the dominant driver of total comprehensive income.,True
+finetuned,E0172,83492c903d8e,2,"In 2021, profit was £5,987m.",False
+finetuned,E0172,83492c903d8e,3,"In 2021, total comprehensive income was £6,041m.",False
+finetuned,E0172,83492c903d8e,4,"In 2023, profit rose to £7,391m.",False
+finetuned,E0172,83492c903d8e,5,"In 2023, total comprehensive income rose to £7,435m.",False
+finetuned,E0172,83492c903d8e,6,The difference between profit and total comprehensive income is mainly due to other comprehensive income items.,True
+finetuned,E0172,83492c903d8e,7,"In 2021, other comprehensive income was a gain of £544m.",False
+finetuned,E0189,680b99914e14,0,The Retail secured CRD IV model update reduced the Group's CET1 ratio by around 15 basis points.,False
+finetuned,E0189,680b99914e14,1,The IFRS 9 transitional relief release added around 10 basis points to the Group's CET1 ratio.,False
+finetuned,E0189,680b99914e14,2,Impairment movements were a net negative 14 basis points.,False
+finetuned,E0189,680b99914e14,3,The impairment movements partially offset the positive effect of transitional relief.,False
+finetuned,E0189,680b99914e14,4,The Group's CET1 ratio fell 68 basis points overall.,False
+finetuned,E0189,680b99914e14,5,The Group's CET1 ratio fell to 14.7%.,False
+finetuned,E0189,680b99914e14,6,"The 68 basis point fall reflected the combined impact of the updated model, transitional relief, and impairment charges.",False
+finetuned,E0201,c7729e6ab4e7,0,Cash and balances at central banks fell by £15.9 billion.,False
+finetuned,E0201,c7729e6ab4e7,1,Customer deposits declined by £14.7 billion.,False
+finetuned,E0201,c7729e6ab4e7,2,The reduction in customer deposits was largely offset by a reduction in cash held.,False
+finetuned,E0201,c7729e6ab4e7,3,The offset suggests a relatively stable liquidity position.,True
+finetuned,E0201,c7729e6ab4e7,4,Other financial assets increased by £1.2 billion.,False
+finetuned,E0201,c7729e6ab4e7,5,The bank did not simply reduce its cash holdings; it also acquired additional financial assets.,True
+finetuned,E0201,c7729e6ab4e7,6,The increase in other financial assets could indicate a deliberate shift in asset allocation.,False
+finetuned,E0201,c7729e6ab4e7,7,The increase in other financial assets could indicate a desire to maintain lending capacity while managing cash flow.,False
+finetuned,E0228,e9073cb6d72a,0,Derivative assets decreased by $19bn.,False
+finetuned,E0228,e9073cb6d72a,1,Derivative assets decreased by 14%.,False
+finetuned,E0228,e9073cb6d72a,2,Derivative liabilities decreased by $18bn.,False
+finetuned,E0228,e9073cb6d72a,3,Derivative liabilities decreased by 15%.,False
+finetuned,E0228,e9073cb6d72a,4,The decrease in derivatives was driven by lower trading book exposures.,False
+finetuned,E0228,e9073cb6d72a,5,Lower trading book exposures were notably in HSBC Bank plc.,False
+finetuned,E0228,e9073cb6d72a,6,The reduction in HSBC Bank plc reflected reduced volatility in equity markets.,False
+finetuned,E0228,e9073cb6d72a,7,The reduction in HSBC Bank plc reflected reduced volatility in interest rate markets.,False
+finetuned,E0232,a808c57a46c5,0,Profitability improved significantly.,True
+finetuned,E0232,a808c57a46c5,1,Net income rose by £1.4 billion.,False
+finetuned,E0232,a808c57a46c5,2,Net income rose by 5%.,False
+finetuned,E0232,a808c57a46c5,3,Operating lease depreciation fell sharply from £698 million to £278 million.,False
+finetuned,E0232,a808c57a46c5,4,Operating expenses increased by £1.0 billion.,False
+finetuned,E0232,a808c57a46c5,5,The increase in operating expenses was partly offset by a £0.5 billion impairment release on operating lease assets.,False
+finetuned,E0232,a808c57a46c5,6,The net interest margin improved by 19 basis points.,False
+finetuned,E0232,a808c57a46c5,7,The net interest margin improved to 3.08%.,False
+finetuned,E0234,68effcd53bcd,0,"Total income rose from £14,985m in 2022 to £16,709m in 2023.",False
+finetuned,E0234,68effcd53bcd,1,"The increase in total income was £1,724m.",False
+finetuned,E0234,68effcd53bcd,2,The percentage increase in total income was 11.4%.,False
+finetuned,E0234,68effcd53bcd,3,The increase in total income was driven by higher net interest income.,False
+finetuned,E0234,68effcd53bcd,4,"Net interest income rose by £1,091m.",False
+finetuned,E0234,68effcd53bcd,5,Other income increased by £533m.,False
+finetuned,E0234,68effcd53bcd,6,Net interest income benefited from higher average interest-earning assets.,False
+finetuned,E0234,68effcd53bcd,7,Net interest income benefited from a higher average interest rate environment.,True
+finetuned,E0235,8c4ae6333919,0,Assets increased by $198bn.,False
+finetuned,E0235,8c4ae6333919,1,Assets increased by 17%.,False
+finetuned,E0235,8c4ae6333919,2,"Assets increased from $1,165bn in 2020 to $1,363bn in 2023.",False
+finetuned,E0235,8c4ae6333919,3,Cash and balances at central banks rose from $409bn to $499bn.,False
+finetuned,E0235,8c4ae6333919,4,Cash and balances at central banks increased by $90bn.,False
+finetuned,E0235,8c4ae6333919,5,Loans and advances to customers fell from $707bn to $665bn.,False
+finetuned,E0235,8c4ae6333919,6,Loans and advances to customers decreased by $42bn.,False
+finetuned,E0235,8c4ae6333919,7,Financial investments declined from $438bn to $399bn.,False
+finetuned,E0251,f7fbae1f8908,0,Assets fell by $49bn.,False
+finetuned,E0251,f7fbae1f8908,1,Assets fell by 5%.,False
+finetuned,E0251,f7fbae1f8908,2,Liabilities fell by $68bn.,False
+finetuned,E0251,f7fbae1f8908,3,Liabilities fell by 7%.,False
+finetuned,E0251,f7fbae1f8908,4,The largest single item was cash and balances at central banks.,False
+finetuned,E0251,f7fbae1f8908,5,Cash and balances at central banks fell by $28bn.,False
+finetuned,E0251,f7fbae1f8908,6,Cash and balances at central banks fell by 10%.,False
+finetuned,E0251,f7fbae1f8908,7,The fall in cash and balances at central banks was because of higher customer demand for lending.,False
+finetuned,E0253,6bde6da9176a,0,Credit quality remained stable overall.,True
+finetuned,E0253,6bde6da9176a,1,The impairment charge fell by £159m to £487m.,False
+finetuned,E0253,6bde6da9176a,2,Stage 1 charges were down £169m.,False
+finetuned,E0253,6bde6da9176a,3,Stage 2 charges were up £10m.,False
+finetuned,E0253,6bde6da9176a,4,The loan-to-value ratio increased to 59.1%.,False
+finetuned,E0253,6bde6da9176a,5,The underlying impairment coverage ratio rose to 0.25%.,False
+finetuned,E0253,6bde6da9176a,6,Post-model adjustments were a net credit of £10m in 2023.,False
+finetuned,E0253,6bde6da9176a,7,Post-model adjustments were a net charge of £10m in 2022.,False
+finetuned,E0260,daa6c29d6816,0,Risk-weighted assets increased by £4.5 billion.,False
+finetuned,E0260,daa6c29d6816,1,Risk-weighted assets increased by 3%.,True
+finetuned,E0260,daa6c29d6816,2,Risk-weighted assets increased to £178.9 billion.,False
+finetuned,E0260,daa6c29d6816,3,The increase in risk-weighted assets was driven mainly by lending growth.,False
+finetuned,E0260,daa6c29d6816,4,Lending growth added £6.1 billion to risk-weighted assets.,False
+finetuned,E0260,daa6c29d6816,5,A higher operational and conduct risk exposure added £1.5 billion to risk-weighted assets.,False
+finetuned,E0260,daa6c29d6816,6,Optimisation activities reduced risk-weighted assets by £2.1 billion.,False
+finetuned,E0260,daa6c29d6816,7,The increase in risk-weighted assets was partly offset by optimisation activities.,True
+finetuned,E0269,c38865f2bcbb,0,The Group returned £1.9 billion in dividends in respect of 2022.,False
+finetuned,E0269,c38865f2bcbb,1,The 2022 dividend return included a final ordinary dividend of 5.4 pence per share.,False
+finetuned,E0269,c38865f2bcbb,2,The 2022 dividend return included an interim ordinary dividend of 2.7 pence per share.,False
+finetuned,E0269,c38865f2bcbb,3,The Board proposed a special dividend of 2.0 pence per share.,False
+finetuned,E0269,c38865f2bcbb,4,The special dividend of 2.0 pence per share was paid on 16 February 2023.,False
+finetuned,E0269,c38865f2bcbb,5,The Board did not propose a special dividend in respect of 2023.,True
+finetuned,E0269,c38865f2bcbb,6,The total capital return for 2023 comprises a final ordinary dividend of 6.8 pence per share.,False
+finetuned,E0269,c38865f2bcbb,7,The total capital return for 2023 comprises a proposed ordinary share buyback programme of up to £1.0 billion.,False
+finetuned,E0273,be86b24fc808,0,The planned disposals are expected to reduce earnings volatility.,False
+finetuned,E0273,be86b24fc808,1,The planned disposals are expected to remove the impact of economic and market headwinds.,False
+finetuned,E0273,be86b24fc808,2,The planned disposals are expected to reduce the risk and complexity of the business.,False
+finetuned,E0273,be86b24fc808,3,The Canada banking business is expected to generate around $1bn of underlying net income in 2024.,False
+finetuned,E0273,be86b24fc808,4,The Canada banking business is expected to have a CET1 ratio of around 13% in 2024.,False
+finetuned,E0273,be86b24fc808,5,The sale of the Canada banking business is expected to complete by the end of 2024.,False
+finetuned,E0273,be86b24fc808,6,The France retail banking business is expected to generate around $0.5bn of underlying net income in 2024.,False
+finetuned,E0273,be86b24fc808,7,The France retail banking business is expected to have a CET1 ratio of around 12% in 2024.,False
+finetuned,E0282,9e151aedb36a,0,Operating costs fell by £159m.,False
+finetuned,E0282,9e151aedb36a,1,Operating costs fell by 4%.,False
+finetuned,E0282,9e151aedb36a,2,Remediation costs rose by £178m.,False
+finetuned,E0282,9e151aedb36a,3,Remediation costs rose by 16%.,False
+finetuned,E0282,9e151aedb36a,4,The cost:income ratio excluding remediation was 53.1%.,False
+finetuned,E0282,9e151aedb36a,5,The cost:income ratio excluding remediation was up 1 percentage point.,False
+finetuned,E0282,9e151aedb36a,6,The cost:income ratio including remediation was 55.5%.,False
+finetuned,E0282,9e151aedb36a,7,The cost:income ratio including remediation was down 1.5 percentage points.,False
+finetuned,E0285,782e7db432ab,0,The Group expects to generate around 150 basis points of CET1 capital over 2024.,False
+finetuned,E0285,782e7db432ab,1,The expected range for 2024 CET1 capital generation is between 130 and 170 basis points.,False
+finetuned,E0285,782e7db432ab,2,The 2024 capital generation is driven by net income growth.,False
+finetuned,E0285,782e7db432ab,3,The 2024 capital generation includes the benefit of higher yield curve rates.,False
+finetuned,E0285,782e7db432ab,4,The 2024 capital generation includes a modest reduction in risk-weighted assets.,False
+finetuned,E0285,782e7db432ab,5,The 2024 expectation is subject to uncertainty.,True
+finetuned,E0285,782e7db432ab,6,Uncertainty factors include economic and market conditions.,True
+finetuned,E0285,782e7db432ab,7,Uncertainty factors include credit performance.,False
+finetuned,E0290,5e3772a7b1ba,0,The decline was driven by several negative factors.,False
+finetuned,E0290,5e3772a7b1ba,1,Distribution of profits reduced the ratio by 1.5 percentage points.,False
+finetuned,E0290,5e3772a7b1ba,2,Dividends paid reduced the ratio by 0.7 percentage points.,False
+finetuned,E0290,5e3772a7b1ba,3,AT1 coupons paid reduced the ratio by 0.2 percentage points.,False
+finetuned,E0290,5e3772a7b1ba,4,These negative effects were partially offset by positive factors.,False
+finetuned,E0290,5e3772a7b1ba,5,A favourable impact from IFRS 9 transitional relief added 0.6 percentage points.,False
+finetuned,E0290,5e3772a7b1ba,6,The conversion of subordinated debt into equity added 0.4 percentage points.,False
+finetuned,E0290,5e3772a7b1ba,7,"Overall, the ratio fell from 14.2% to 13.4%.",True
+hybrid,E0001,caa0a61dbce2,0,"Total equity rose from £43,911 million at 31 December 2022 to £47,365 million at 31 December 2023.",False
+hybrid,E0001,caa0a61dbce2,1,"The increase in total equity was £3,454 million.",False
+hybrid,E0001,caa0a61dbce2,2,The increase in total equity was driven by attributable profit.,False
+hybrid,E0001,caa0a61dbce2,3,The increase in total equity was driven by movements in the cash flow hedge reserve.,False
+hybrid,E0001,caa0a61dbce2,4,The increase in total equity was driven by the issuance of other equity instruments.,False
+hybrid,E0001,caa0a61dbce2,5,The increase in total equity was partly offset by market movements impacting pensions.,False
+hybrid,E0001,caa0a61dbce2,6,The increase in total equity was partly offset by dividends paid.,True
+hybrid,E0001,caa0a61dbce2,7,The increase in total equity was partly offset by the impact of the share buyback programme.,True
+hybrid,E0026,15e8edfb3947,0,The pro forma CET1 ratio declined by 0.4 percentage points.,True
+hybrid,E0026,15e8edfb3947,1,Positive drivers included strong banking build.,False
+hybrid,E0026,15e8edfb3947,2,Positive drivers included the £250m Insurance dividend.,True
+hybrid,E0026,15e8edfb3947,3,Positive drivers included other movements totalling +29bps.,False
+hybrid,E0026,15e8edfb3947,4,The positive drivers were substantially offset by negative factors.,False
+hybrid,E0026,15e8edfb3947,5,Risk-weighted assets increased by 4%.,True
+hybrid,E0026,15e8edfb3947,6,The RWA increase included £5bn from Retail secured CRD IV model updates.,True
+hybrid,E0026,15e8edfb3947,7,The ordinary dividend used 86bps.,False
+hybrid,E0036,c1dde6808c29,0,"Customer accounts grew strongly in Hong Kong by $10 billion, a 3% increase.",True
+hybrid,E0036,c1dde6808c29,1,"Customer accounts grew strongly in Singapore by $5 billion, a 15% increase.",True
+hybrid,E0036,c1dde6808c29,2,"Customer accounts grew strongly in Australia by $3 billion, a 19% increase.",True
+hybrid,E0036,c1dde6808c29,3,"Customer accounts grew strongly in mainland China by $3 billion, a 19% increase.",True
+hybrid,E0036,c1dde6808c29,4,"Customer accounts grew strongly in Taiwan by $2 billion, a 34% increase.",True
+hybrid,E0036,c1dde6808c29,5,"The largest absolute declines in customer accounts were in HSBC UK, with a $14 billion decrease.",True
+hybrid,E0036,c1dde6808c29,6,"The largest absolute declines in customer accounts were in Oman, with a $14 billion decrease.",False
+hybrid,E0036,c1dde6808c29,7,Transfers of customers from GBM to CMB in Australia contributed to reductions in GBM and CMB.,True
+hybrid,E0051,d7b919e2a80d,0,The Group uses IFRS.,True
+hybrid,E0051,d7b919e2a80d,1,The Group is subject to the requirements set out in the PRA Rulebook.,False
+hybrid,E0051,d7b919e2a80d,2,The capital ratios are presented under the IFRS and PRA Rulebook frameworks.,False
+hybrid,E0051,d7b919e2a80d,3,The leverage ratios are presented under the IFRS and PRA Rulebook frameworks.,True
+hybrid,E0051,d7b919e2a80d,4,The capital and leverage ratios are presented on a transitional basis.,True
+hybrid,E0058,62738a507913,0,Liquidity remained strong but was under pressure.,True
+hybrid,E0058,62738a507913,1,Total assets grew by $89bn.,True
+hybrid,E0058,62738a507913,2,Total assets grew by 3%.,False
+hybrid,E0058,62738a507913,3,Customer accounts rose by $43bn.,False
+hybrid,E0058,62738a507913,4,Customer accounts rose by 3%.,True
+hybrid,E0058,62738a507913,5,Loans and advances to customers increased by $15bn.,False
+hybrid,E0058,62738a507913,6,Loans and advances to customers increased by 2%.,False
+hybrid,E0058,62738a507913,7,Loans and advances to customers had an $18bn favourable foreign currency translation effect.,False
+hybrid,E0070,8f407602b700,0,The Group holds two types of debt instruments: those classified as hold-to-collect-and-sell and those classified as hold-to-collect.,True
+hybrid,E0070,8f407602b700,1,Unrealised losses on these instruments appear differently in the financial statements.,True
+hybrid,E0070,8f407602b700,2,Unrealised losses on these instruments have different reversal characteristics.,True
+hybrid,E0070,8f407602b700,3,Hold-to-collect-and-sell instruments are reported within financial investments.,True
+hybrid,E0070,8f407602b700,4,Hold-to-collect-and-sell instruments are classified as held-to-collect-and-sell.,True
+hybrid,E0070,8f407602b700,5,Unrealised losses on hold-to-collect-and-sell instruments are recognised through 'debt instruments at fair value through other comprehensive income' in equity.,True
+hybrid,E0070,8f407602b700,6,"In a rising interest rate environment, the fair value of hold-to-collect-and-sell instruments falls.",True
+hybrid,E0070,8f407602b700,7,The falling fair value of hold-to-collect-and-sell instruments generates a cumulative unrealised loss reserve of $3.9bn at 31 December 2023.,True
+hybrid,E0073,8918f3f63b79,0,"Operating profit before tax rose 20.4% to £6,178 million.",True
+hybrid,E0073,8918f3f63b79,1,"Profit for the year increased 28.8% to £4,632 million.",True
+hybrid,E0073,8918f3f63b79,2,The improvement in profit was driven by higher income.,True
+hybrid,E0073,8918f3f63b79,3,Higher income came notably from yield curve movements.,True
+hybrid,E0073,8918f3f63b79,4,Higher income came notably from lending growth.,False
+hybrid,E0073,8918f3f63b79,5,Higher income came notably from markets businesses.,False
+hybrid,E0073,8918f3f63b79,6,The improvement was also driven by higher costs.,False
+hybrid,E0073,8918f3f63b79,7,"Operating expenses rose 10.3% to £3,612 million.",False
+hybrid,E0078,297c47ba9af1,0,The Group's pro forma CET1 ratio fell from 14.1% at 31 December 2022 to 13.7% at 31 December 2023.,True
+hybrid,E0078,297c47ba9af1,1,The ordinary dividend reduced the CET1 ratio by 86 basis points.,True
+hybrid,E0078,297c47ba9af1,2,The share buyback programme used 98 basis points of capital.,True
+hybrid,E0078,297c47ba9af1,3,Variable pension contributions consumed 9 basis points.,True
+hybrid,E0078,297c47ba9af1,4,The Tusker acquisition utilised 21 basis points.,True
+hybrid,E0078,297c47ba9af1,5,These uses were partially offset by positive drivers such as the £250 million Insurance dividend.,True
+hybrid,E0078,297c47ba9af1,6,An impairment credit was a positive driver partially offsetting the capital uses.,False
+hybrid,E0078,297c47ba9af1,7,Other movements partially offset the capital uses.,False
+hybrid,E0079,d5ff47207a56,0,"Customer accounts grew strongly by $41bn, or 4%, to $1.6tn.",False
+hybrid,E0079,d5ff47207a56,1,"Customer loans increased by $15bn, or 2%, to $940bn.",False
+hybrid,E0079,d5ff47207a56,2,The growth rates imply a modest loan-to-deposit ratio decline.,False
+hybrid,E0079,d5ff47207a56,3,The loan-to-deposit ratio decline is consistent with commentary that customer accounts grew faster than lending.,False
+hybrid,E0079,d5ff47207a56,4,The increase in customer accounts was driven by higher average daily balances in Hong Kong.,False
+hybrid,E0079,d5ff47207a56,5,The increase in customer accounts was driven by higher average daily balances in mainland China.,False
+hybrid,E0079,d5ff47207a56,6,The increase in customer accounts was driven by higher average daily balances in Europe.,False
+hybrid,E0079,d5ff47207a56,7,The increase in customer accounts was partly offset by lower balances in the US.,False
+hybrid,E0097,822907dfb7d1,0,"The CET1 capital movement in 2023 was £4,394 million.",True
+hybrid,E0097,822907dfb7d1,1,"Attributable profit was a key driver of the CET1 capital movement, contributing +£4,394 million.",True
+hybrid,E0097,822907dfb7d1,2,"Ordinary interim dividend paid was a key driver, contributing -£491 million.",False
+hybrid,E0097,822907dfb7d1,3,"Directed buyback was a key driver, contributing -£1,259 million.",False
+hybrid,E0097,822907dfb7d1,4,"Foreseeable ordinary dividends were a key driver, contributing -£1,013 million.",False
+hybrid,E0097,822907dfb7d1,5,"Foreseeable charges were a key driver, contributing -£870 million.",False
+hybrid,E0097,822907dfb7d1,6,"Foreign exchange reserve was a key driver, contributing -£637 million.",True
+hybrid,E0097,822907dfb7d1,7,"FVOCI reserve was a key driver, contributing +£53 million.",True
+hybrid,E0112,ffc99706d3db,0,Financial investments increased by $78bn.,True
+hybrid,E0112,ffc99706d3db,1,Financial investments increased by 21%.,False
+hybrid,E0112,ffc99706d3db,2,The increase in financial investments was mainly in Asia and Europe.,True
+hybrid,E0112,ffc99706d3db,3,"The increase in financial investments was from the purchase of debt securities, treasury and other eligible bills.",True
+hybrid,E0112,ffc99706d3db,4,The increase was part of redeploying commercial surplus to benefit from higher yield curves.,True
+hybrid,E0112,ffc99706d3db,5,The increase was part of enhancing hedging activities on net interest income.,False
+hybrid,E0112,ffc99706d3db,6,The increase was across debt instruments held at fair value through other comprehensive income.,False
+hybrid,E0112,ffc99706d3db,7,The increase was across instruments held at amortised cost.,False
+hybrid,E0117,3472478500c2,0,"Underlying other income increased by £457 million to £5,123 million.",True
+hybrid,E0117,3472478500c2,1,"Growth was across Retail, Commercial Banking and Insurance, Pensions and Investments.",True
+hybrid,E0117,3472478500c2,2,The rise was driven by higher current account and credit card activity.,False
+hybrid,E0117,3472478500c2,3,The rise was driven by improved performance in Lex.,False
+hybrid,E0117,3472478500c2,4,The rise was driven by growth from the Tusker acquisition in Retail.,False
+hybrid,E0117,3472478500c2,5,"In Commercial Banking, there was 8% growth.",False
+hybrid,E0117,3472478500c2,6,Commercial Banking growth was due to improved performance in capital markets financing and trading.,False
+hybrid,E0117,3472478500c2,7,"Insurance, Pensions and Investments saw a 26% increase.",False
+hybrid,E0128,8469ff6040e6,0,Total comprehensive income for the year was £54 million.,True
+hybrid,E0128,8469ff6040e6,1,Total comprehensive income was up from £370 million in 2022.,False
+hybrid,E0128,8469ff6040e6,2,"The largest component of total comprehensive income was profit for the year, £4,632 million.",True
+hybrid,E0128,8469ff6040e6,3,Profit for the year was partly offset by items that do not qualify for reclassification.,False
+hybrid,E0128,8469ff6040e6,4,Items that do not qualify for reclassification included remeasurement of retirement benefit schemes (£280 million loss).,True
+hybrid,E0128,8469ff6040e6,5,Items that do not qualify for reclassification included changes in fair value of credit in financial liabilities designated at FVTPL (£39 million loss).,True
+hybrid,E0128,8469ff6040e6,6,Items that do not qualify for reclassification included tax (£619 million loss).,False
+hybrid,E0128,8469ff6040e6,7,Items that do qualify for reclassification included FVOCI financial assets (£49 million gain).,True
+hybrid,E0134,ed0ce81f12b9,0,Hyperinflation in Argentina had a material adverse effect on reported net interest income (NII) in 2023.,True
+hybrid,E0134,ed0ce81f12b9,1,Hyperinflation in Argentina had a material adverse effect on reported net interest margin (NIM) in 2023.,True
+hybrid,E0134,ed0ce81f12b9,2,"For the year 2023, NII fell by $0.5bn.",False
+hybrid,E0134,ed0ce81f12b9,3,"For the year 2023, NII fell by 2bps.",False
+hybrid,E0134,ed0ce81f12b9,4,"For the year 2023, NIM declined by 9bps.",False
+hybrid,E0134,ed0ce81f12b9,5,"In the fourth quarter of 2023, NIM dropped by 16bps overall.",True
+hybrid,E0134,ed0ce81f12b9,6,"In the fourth quarter of 2023, NIM dropped by 9bps excluding hyperinflation.",False
+hybrid,E0134,ed0ce81f12b9,7,The fourth-quarter impact was especially pronounced because it reflected the full-year effect of the peso devaluation.,False
+hybrid,E0165,166865b7f046,0,The rising UK Bank Rate environment had both positive and negative effects on the Group’s net interest income and net interest margin in 2023.,True
+hybrid,E0165,166865b7f046,1,The banking net interest margin increased to 3.11% in 2023 from 2.94% in 2022.,True
+hybrid,E0165,166865b7f046,2,The improvement in banking net interest margin was 17 basis points.,True
+hybrid,E0165,166865b7f046,3,The increase in banking net interest margin was driven by UK Bank Rate increases.,True
+hybrid,E0165,166865b7f046,4,The increase in banking net interest margin was driven by higher structural hedge earnings from the rising rate environment.,True
+hybrid,E0165,166865b7f046,5,The Group benefited from higher structural hedge earnings in the rising rate environment.,True
+hybrid,E0165,166865b7f046,6,Higher structural hedge earnings contributed to the overall increase in net interest income.,True
+hybrid,E0165,166865b7f046,7,The Group experienced deposit mix headwinds.,True
+hybrid,E0172,95afd4c45e27,0,Total comprehensive income comprises profit for the year plus other comprehensive income/(losses).,True
+hybrid,E0172,95afd4c45e27,1,"In 2023, profit for the year was £4,632m.",True
+hybrid,E0172,95afd4c45e27,2,"In 2023, other comprehensive income was £54m.",True
+hybrid,E0172,95afd4c45e27,3,"In 2023, total comprehensive income was £4,686m.",True
+hybrid,E0172,95afd4c45e27,4,"In 2022, profit for the year was £3,595m.",True
+hybrid,E0172,95afd4c45e27,5,"In 2022, other comprehensive income was a loss of £2,970m.",True
+hybrid,E0172,95afd4c45e27,6,"In 2022, total comprehensive income was £625m.",True
+hybrid,E0172,95afd4c45e27,7,"In 2021, profit for the year was £3,312m.",False
+hybrid,E0189,5efb971c526f,0,The Retail secured CRD IV model updates added £5 billion to risk-weighted assets during the year.,True
+hybrid,E0189,5efb971c526f,1,A further £2 billion was recognised in the fourth quarter from the Retail secured CRD IV model updates.,True
+hybrid,E0189,5efb971c526f,2,The increase in risk-weighted assets was partly offset by optimisation activities such as capital-efficient securitisation.,True
+hybrid,E0189,5efb971c526f,3,The IFRS 9 transitional relief ended.,False
+hybrid,E0189,5efb971c526f,4,The transitional factor was reduced.,False
+hybrid,E0189,5efb971c526f,5,The end of IFRS 9 transitional relief and the reduced transitional factor contributed to the 50 basis point regulatory headwind.,True
+hybrid,E0189,5efb971c526f,6,The Group generated 223 basis points of capital before regulatory headwinds.,True
+hybrid,E0189,5efb971c526f,7,"After regulatory headwinds, the capital generation was 173 basis points.",True
+hybrid,E0201,6fe707da91c7,0,Cash and balances at central banks fell by £40.6 billion.,True
+hybrid,E0201,6fe707da91c7,1,Customer deposits fell by £18.9 billion.,True
+hybrid,E0201,6fe707da91c7,2,Other financial assets rose by £20.2 billion.,True
+hybrid,E0201,6fe707da91c7,3,The decrease in cash and central bank balances was larger than the decline in customer deposits.,False
+hybrid,E0201,6fe707da91c7,4,The bank used some of its cash to fund other asset purchases or reduce customer deposit balances.,True
+hybrid,E0201,6fe707da91c7,5,Other financial assets grew significantly.,False
+hybrid,E0201,6fe707da91c7,6,The bank shifted funds into securities or other financial instruments.,False
+hybrid,E0201,6fe707da91c7,7,The overall balance sheet contracted.,True
+hybrid,E0228,a40c9812b030,0,"Total assets at 31 Dec for 2023 is 3,038,677",True
+hybrid,E0228,a40c9812b030,1,"Total assets at 31 Dec for 2022 is 2,949,286",True
+hybrid,E0228,a40c9812b030,2,"Total assets at 31 Dec for 2021 is 2,957,939",False
+hybrid,E0228,a40c9812b030,3,"Total assets at 31 Dec for 2020 is 2,984,164",False
+hybrid,E0228,a40c9812b030,4,"Total assets at 31 Dec for 2019 is 2,715,152",False
+hybrid,E0228,a40c9812b030,5,"Total liabilities and equity at 31 Dec for 2023 is 2,853,348",False
+hybrid,E0228,a40c9812b030,6,"Total liabilities and equity at 31 Dec for 2022 is 2,849,276",False
+hybrid,E0228,a40c9812b030,7,"Total liabilities and equity at 31 Dec for 2021 is 2,959,689",False
+hybrid,E0232,b169eb0ce651,0,"Attributable profit rose from £3,340m to £4,394m.",False
+hybrid,E0232,b169eb0ce651,1,Earnings per share rose from 33.8p to 47.9p.,False
+hybrid,E0232,b169eb0ce651,2,RoTE rose from 12.3% to 17.8%.,False
+hybrid,E0232,b169eb0ce651,3,The increase in profitability was driven by higher income and a lower cost:income ratio.,False
+hybrid,E0232,b169eb0ce651,4,"Total income rose 12.1% to £14,752m.",True
+hybrid,E0232,b169eb0ce651,5,Total income excluding notable items was up 9.8%.,True
+hybrid,E0232,b169eb0ce651,6,The notable items included a £385m deferred tax asset write back.,False
+hybrid,E0232,b169eb0ce651,7,The notable items included a £413m charge.,False
+hybrid,E0234,545c93dc07f2,0,The answer refers to equity for further details of the reclassification of items from other comprehensive income to profit or loss.,False
+hybrid,E0234,545c93dc07f2,1,The source is NatWest Group plc's 2023 Annual Report.,True
+hybrid,E0234,545c93dc07f2,2,The source is part of the Group Chief Financial Officer's review.,True
+hybrid,E0234,545c93dc07f2,3,The source includes the Consolidated statement of changes in equity.,False
+hybrid,E0234,545c93dc07f2,4,The statement of changes in equity is for the year ended 31 December 2023.,False
+hybrid,E0234,545c93dc07f2,5,"The statement of changes in equity includes figures for 2023, 2022, and 2021.",False
+hybrid,E0234,545c93dc07f2,6,The figures in the statement are in £m.,True
+hybrid,E0234,545c93dc07f2,7,"Ordinary shareholders' equity capital at 1 January 2022 was 18,195.",False
+hybrid,E0235,5628c89d9db2,0,Assets grew from $2.9tn in 2020 to $3.0tn in 2023.,False
+hybrid,E0235,5628c89d9db2,1,Cash and balances at central banks rose from $1.0tn to $1.1tn.,False
+hybrid,E0235,5628c89d9db2,2,Loans and advances to customers fell from $1.7tn to $1.7tn.,False
+hybrid,E0235,5628c89d9db2,3,Financial investments fell from $0.9tn to $0.7tn.,False
+hybrid,E0235,5628c89d9db2,4,Derivative assets fell from $0.4tn to $0.3tn.,False
+hybrid,E0235,5628c89d9db2,5,Other financial assets rose from $0.7tn to $0.8tn.,False
+hybrid,E0235,5628c89d9db2,6,The asset changes suggest a shift away from trading book and securities holdings towards cash and customer lending.,False
+hybrid,E0235,5628c89d9db2,7,The asset changes suggest a smaller proportion of financial investments and derivatives.,False
+hybrid,E0251,04d635320bbe,0,Assets fell sharply from $2.95tn to $2.95tn.,False
+hybrid,E0251,04d635320bbe,1,Liabilities fell from $2.96tn to $2.95tn.,True
+hybrid,E0251,04d635320bbe,2,Cash and balances at central banks declined from $403bn to $327bn.,False
+hybrid,E0251,04d635320bbe,3,Trading assets declined from $249bn to $218bn.,False
+hybrid,E0251,04d635320bbe,4,Financial assets at fair value through profit or loss declined from $49.8bn to $100.1bn.,False
+hybrid,E0251,04d635320bbe,5,Derivative assets rose from $197bn to $284bn.,False
+hybrid,E0251,04d635320bbe,6,Loans to banks rose from $83bn to $104bn.,False
+hybrid,E0251,04d635320bbe,7,Loans to customers fell from $1.05tn to $924bn.,False
+hybrid,E0253,33644582b508,0,Credit quality remained strong.,True
+hybrid,E0253,33644582b508,1,Stage 3 defaults were low and stable.,False
+hybrid,E0253,33644582b508,2,The portfolio had good book charges related to unsecured lending.,False
+hybrid,E0253,33644582b508,3,The net impairment charge was £578 million.,True
+hybrid,E0253,33644582b508,4,The net impairment charge was 15 basis points of gross customer loans.,True
+hybrid,E0253,33644582b508,5,The net impairment charge was broadly in line with expectations.,False
+hybrid,E0253,33644582b508,6,The ECL provision increased by £0.2 billion.,True
+hybrid,E0253,33644582b508,7,The ECL provision increased to £3.6 billion.,True
+hybrid,E0260,7f0818acb8aa,0,Risk-weighted assets increased by £8 billion during the year.,True
+hybrid,E0260,7f0818acb8aa,1,Risk-weighted assets were £219.1 billion at 31 December 2023.,False
+hybrid,E0260,7f0818acb8aa,2,Risk-weighted assets were £210.9 billion at 31 December 2022.,False
+hybrid,E0260,7f0818acb8aa,3,Retail secured CRD IV model updates contributed a £5 billion increase to risk-weighted assets.,True
+hybrid,E0260,7f0818acb8aa,4,£2 billion of the retail secured CRD IV model update increase was recognised in the fourth quarter.,True
+hybrid,E0260,7f0818acb8aa,5,The Group estimates a further £5 billion increase from retail secured CRD IV model updates over 2024 to 2026.,True
+hybrid,E0260,7f0818acb8aa,6,The further £5 billion increase from retail secured CRD IV model updates is subject to final model outcomes.,True
+hybrid,E0260,7f0818acb8aa,7,"Lending, operational and market risk increases contributed to the rise in risk-weighted assets.",True
+hybrid,E0269,e819f5762122,0,"In 2022, the Group returned surplus capital through a share buyback programme of up to £2 billion.",True
+hybrid,E0269,e819f5762122,1,The share buyback programme commenced in February 2023.,True
+hybrid,E0269,e819f5762122,2,The share buyback programme completed on 25 August 2023.,True
+hybrid,E0269,e819f5762122,3,Approximately 4.4 billion ordinary shares were repurchased under the share buyback programme.,True
+hybrid,E0269,e819f5762122,4,The Board declared an ordinary dividend of 1.64 pence per share in February 2023.,False
+hybrid,E0269,e819f5762122,5,The ordinary dividend of 1.64 pence per share was paid in September 2023.,False
+hybrid,E0269,e819f5762122,6,The Board declared a final ordinary dividend of 1.84 pence per share in February 2024.,False
+hybrid,E0269,e819f5762122,7,The total ordinary dividend for 2022 was 3.48 pence per share.,False
+hybrid,E0273,56d55e144f69,0,The Canada banking business had revenue of $2.0bn.,False
+hybrid,E0273,56d55e144f69,1,The Canada banking business had operating expenses of $1.0bn.,False
+hybrid,E0273,56d55e144f69,2,The Canada banking business had a profit before tax of $0.9bn.,True
+hybrid,E0273,56d55e144f69,3,The French retail banking operations generated revenue of $0.3bn.,False
+hybrid,E0273,56d55e144f69,4,The French retail banking operations incurred operating expenses of $0.6bn.,False
+hybrid,E0273,56d55e144f69,5,The French retail banking operations resulted in a loss before tax of $0.3bn.,False
+hybrid,E0273,56d55e144f69,6,The Canada business has $56.1bn in loans.,True
+hybrid,E0273,56d55e144f69,7,The Canada business has $63.0bn in customer accounts.,True
+hybrid,E0282,d0034c2a6032,0,Operating costs are the primary driver of profitability.,False
+hybrid,E0282,d0034c2a6032,1,"Operating costs include planned strategic investment, severance charges, new business costs and inflation.",True
+hybrid,E0282,d0034c2a6032,2,Operating costs are presented on a statutory basis.,False
+hybrid,E0282,d0034c2a6032,3,Remediation costs are a separate line item.,True
+hybrid,E0282,d0034c2a6032,4,Remediation costs recognise costs and potential redress related to specific programmes or reviews.,True
+hybrid,E0282,d0034c2a6032,5,"In 2023, remediation costs were £675 million.",True
+hybrid,E0282,d0034c2a6032,6,"In 2022, remediation costs were £255 million.",True
+hybrid,E0282,d0034c2a6032,7,The cost:income ratio includes remediation.,True
+hybrid,E0285,22d41b91838c,0,The Group expects capital generation in 2024 to be c.175 basis points.,True
+hybrid,E0285,22d41b91838c,1,The 2024 capital generation expectation is after taking further expected in-year regulatory headwinds.,True
+hybrid,E0285,22d41b91838c,2,The Group reaffirms guidance for capital generation in 2026 of greater than 200 basis points.,True
+hybrid,E0285,22d41b91838c,3,The 2026 capital generation guidance reflects a management buffer of around 1 per cent.,False
+hybrid,E0285,22d41b91838c,4,The 2026 capital generation guidance reflects a revised ongoing level of CET1 capital required of 13.0 per cent.,True
+hybrid,E0285,22d41b91838c,5,The revised ongoing level of CET1 capital required of 13.0 per cent includes a management buffer of around 1 per cent.,True
+hybrid,E0285,22d41b91838c,6,The Board expects to pay down to c.13.5 per cent by the end of 2024.,True
+hybrid,E0285,22d41b91838c,7,The Board expects to progress towards paying down to the revised capital target of 13.0 per cent by the end of 2026.,True
+hybrid,E0290,23c4df5d0077,0,The decline in the CET1 ratio was principally due to distributions deducted from capital of approximately 200 basis points.,False
+hybrid,E0290,23c4df5d0077,1,The decline in the CET1 ratio was partially offset by the attributable profit.,False
+hybrid,E0290,23c4df5d0077,2,The group generated sufficient earnings to support its business activities.,True
+hybrid,E0290,23c4df5d0077,3,The group distributed a significant portion of its earnings through dividends and share buybacks.,True
+hybrid,E0290,23c4df5d0077,4,The distributions through dividends and share buybacks reduced the overall CET1 capital base.,True
+hybrid,E0290,23c4df5d0077,5,The CET1 ratio reflects the impact of IFRS 9 transitional arrangements.,True
+hybrid,E0290,23c4df5d0077,6,The IFRS 9 transitional arrangements reduced the reported CET1 ratio by 80 basis points.,False
+hybrid,E0290,23c4df5d0077,7,"Excluding the IFRS 9 transitional adjustments, the CET1 ratio would have been 13.2% at 31 December 2023.",True

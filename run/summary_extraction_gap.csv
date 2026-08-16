@@ -1,0 +1,3 @@
+condition,n,answer_in_context,accuracy,extraction_efficiency,correct_with_context,wrong_with_context,correct_without_context,wrong_without_context,accuracy_when_not_retrieved
+rag,114,0.8596,0.6667,0.7551,0.6491,0.2105,0.0175,0.1228,0.125
+hybrid,114,0.8596,0.7018,0.7857,0.6754,0.1842,0.0263,0.114,0.1875

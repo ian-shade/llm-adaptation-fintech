@@ -1,0 +1,5 @@
+condition,n,exact_set_accuracy,letter_jaccard,gap
+baseline,36,0.0833,0.4606,0.3773
+rag,36,0.3611,0.569,0.2079
+finetuned,36,0.2222,0.7218,0.4995
+hybrid,36,0.3056,0.5972,0.2917

@@ -1,0 +1,7 @@
+condition,bank,n,top1_correct_bank,top6_bank_precision,mean_top1_score
+rag,HSBC,100,1.0,0.9967,0.7647
+rag,Lloyds,100,1.0,0.9983,0.798
+rag,NatWest,100,1.0,0.9967,0.7691
+hybrid,HSBC,100,1.0,0.9967,0.7647
+hybrid,Lloyds,100,1.0,0.9983,0.798
+hybrid,NatWest,100,1.0,0.9967,0.7691

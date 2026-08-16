@@ -1,0 +1,24 @@
+{
+  "baseline": {
+    "open_ended_total": 60,
+    "judged_correctness": 60
+  },
+  "rag": {
+    "open_ended_total": 60,
+    "judged_correctness": 60,
+    "judged_faithfulness": 300
+  },
+  "finetuned": {
+    "open_ended_total": 60,
+    "judged_correctness": 60
+  },
+  "hybrid": {
+    "open_ended_total": 60,
+    "judged_correctness": 60,
+    "judged_faithfulness": 300
+  },
+  "_meta": {
+    "model": "deepseek-v4-flash",
+    "timestamp": "2026-08-15 22:31:02"
+  }
+}
