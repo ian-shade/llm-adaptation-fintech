@@ -33,6 +33,7 @@ the evaluation framework, not the financial result.
 ```
 dissertation_full_pipeline_v9_1.ipynb   the pipeline: data prep, training, inference, scoring, figures
 demo_four_systems.ipynb                 Gradio demo serving the frozen v9.1 artefacts side by side
+docs/                                   screenshot of the demo interface
 comparison_300_four_conditions.csv      all four systems' answers to the same 300 questions
 judge_agreement_sample.csv              the ten-item judge-validation sample, with human scores
 corpus_manifest.json                    source reports, retrieval date and SHA-256 of each extract
@@ -41,6 +42,23 @@ data/                                   the three frozen data assets plus the tw
 runs/v9/                                the reported run: results, summaries, logs and figures
 runs/v9/figures/                        fig00–fig16 at 300 dpi, with figure_captions.md
 ```
+
+## The demo interface
+
+`demo_four_systems.ipynb` serves the frozen v9.1 artefacts through a Gradio app: one question,
+four answers, each lane stamped with its two switches and reporting latency, generated tokens,
+abstention and — for the retrieval conditions — bank precision and top-1 similarity.
+
+![The demo interface answering held-out question E0007](docs/demo_four_systems.png)
+
+The example above is E0007, whose gold answer is 13.4%. Both retrieval conditions return it; the
+two retrieval-free conditions return 15.6% and 14.5% — confident, plausible and wrong. Nothing in
+the wording of those answers signals which came from the document. That is the case for measuring
+faithfulness rather than trusting fluency, and it is the same point Chapter 6 makes with numbers.
+
+The interface is a presentation layer, not a second experiment: it loads the same base model,
+adapter, FAISS index and data files that produced the reported results, and it scores nothing
+itself — correctness flags shown in the results tab are the harness's values read back from disk.
 
 ## Running the pipeline
 
@@ -76,9 +94,13 @@ the reported run indexed.
 
 ## The QLoRA adapter
 
-The trained adapter (162 MB) is retained in the Colab run directory and is not published here or
-to a model hub. Section 7 of the notebook reproduces it from `data/3banks_trainalpaca769.jsonl`
-in about half a GPU-hour on a T4.
+The trained adapter is published at `runs/v9/qlora_adapter/`, with its config, tokenizer, chat
+template and a model card. The weights file is 162 MB, so it is stored with **Git LFS** — if it
+arrives as a short text file beginning `version https://git-lfs.github.com/spec/v1`, install Git
+LFS and run `git lfs pull`. `runs/v9/qlora_adapter/WEIGHTS.md` records the SHA-256 of every file.
+
+Section 7 of the notebook reproduces the adapter from `data/3banks_trainalpaca769.jsonl` in about
+half a GPU-hour on a T4.
 
 ## Not financial advice
 
