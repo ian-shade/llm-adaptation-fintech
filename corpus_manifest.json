@@ -1,0 +1,40 @@
+{
+  "description": "Corpus manifest for 'Fine-Tuning vs RAG vs Hybrid: A Comparative Framework for Domain-Specific LLM Adaptation in Financial Services'. The source reports remain the copyright of the issuing banks and are not redistributed here. Rebuild each extract from the source PDF and check the SHA-256 to confirm you hold the same bytes the reported run indexed.",
+  "extraction_tool": "pypdf",
+  "retrieved": "2026-07",
+  "reports": [
+    {
+      "bank": "HSBC Holdings plc",
+      "source_report": "HSBC Holdings plc Annual Report and Accounts 2023",
+      "source_url": "https://www.hsbc.com/-/files/hsbc/investors/hsbc-results/2023/annual/pdfs/hsbc-holdings-plc/240226-annual-report-and-accounts-2023.pdf",
+      "retrieved": "2026-07",
+      "extract_file": "HSBC-2023-core-financials.pdf",
+      "extract_pages": 11,
+      "extract_bytes": 601599,
+      "extract_sha256": "55a3b21446388a7a5053446d11d660a5287da4c2d625b9809bde7e7137a31edc",
+      "extract_contents": "Financial summary and consolidated statements, pages 102-110 and 330-331 as printed"
+    },
+    {
+      "bank": "Lloyds Banking Group plc",
+      "source_report": "Lloyds Banking Group plc Annual Report and Accounts 2023",
+      "source_url": "https://www.lloydsbankinggroup.com/assets/pdfs/investors/financial-performance/lloyds-banking-group-plc/2023/q4/2023-lbg-annual-report.pdf",
+      "retrieved": "2026-07",
+      "extract_file": "lbg-2023-core-financials.pdf",
+      "extract_pages": 11,
+      "extract_bytes": 1174257,
+      "extract_sha256": "3a8a54975a574f48722ecd0677c491b931b14d6ff2993dcbab10be1ae61b19cb",
+      "extract_contents": "Summary of Group results, statutory-basis results and consolidated statements"
+    },
+    {
+      "bank": "NatWest Group plc",
+      "source_report": "NatWest Group plc 2023 Annual Report and Accounts",
+      "source_url": "https://investors.natwestgroup.com/~/media/Files/R/RBS-IR-V2/results-center/16022024/nwg-annual-report-and-accounts-2023.pdf",
+      "retrieved": "2026-07",
+      "extract_file": "nwg-2023-core-financials.pdf",
+      "extract_pages": 11,
+      "extract_bytes": 638718,
+      "extract_sha256": "0a7e970971a95c089861c13e4734ae6707fbae4858721e0d69f055207165ce8a",
+      "extract_contents": "Financial summary, financial review and consolidated statements"
+    }
+  ]
+}
